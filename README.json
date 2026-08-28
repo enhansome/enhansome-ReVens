@@ -19,8 +19,9 @@
                     "last_commit": "2026-08-25T10:54:31Z",
                     "owner": "VirusTotal",
                     "repo": "yara",
-                    "stars": 9833
-                  }
+                    "stars": 9836
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -31,11 +32,12 @@
                     "archived": false,
                     "id": 272815213,
                     "language": "Python",
-                    "last_commit": "2026-08-26T12:44:48Z",
+                    "last_commit": "2026-08-28T04:33:08Z",
                     "owner": "mandiant",
                     "repo": "capa",
                     "stars": 6157
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -49,8 +51,9 @@
                     "last_commit": "2026-06-10T11:08:16Z",
                     "owner": "hasherezade",
                     "repo": "pe-bear",
-                    "stars": 3783
-                  }
+                    "stars": 3784
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -65,7 +68,8 @@
                     "owner": "zer0condition",
                     "repo": "ReverseKit",
                     "stars": 777
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -80,7 +84,8 @@
                     "owner": "spyre-project",
                     "repo": "spyre",
                     "stars": 181
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -95,7 +100,8 @@
                     "owner": "andyjsmith",
                     "repo": "Exe-Spy",
                     "stars": 79
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Analyze PE and other binary files.",
@@ -117,7 +123,8 @@
                     "owner": "horsicq",
                     "repo": "DIE-engine",
                     "stars": 3240
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -132,7 +139,8 @@
                     "owner": "horsicq",
                     "repo": "Nauz-File-Detector",
                     "stars": 582
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Analyze PE compilation, signature and more.",
@@ -154,7 +162,8 @@
                     "owner": "ExeinfoASL",
                     "repo": "ASL",
                     "stars": 1142
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -169,7 +178,8 @@
                     "owner": "bdunlap9",
                     "repo": "UPX-Unpackers",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Analyze PE packaging and protection.",
@@ -190,8 +200,9 @@
                     "last_commit": "2026-08-26T04:53:18Z",
                     "owner": "lostindark",
                     "repo": "DriverStoreExplorer",
-                    "stars": 11502
-                  }
+                    "stars": 11509
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -205,8 +216,9 @@
                     "last_commit": "2025-12-14T04:44:06Z",
                     "owner": "AxtMueller",
                     "repo": "Windows-Kernel-Explorer",
-                    "stars": 2717
-                  }
+                    "stars": 2716
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Dynamic system analysis (Runtime).",
@@ -228,7 +240,8 @@
                     "owner": "Seabreg",
                     "repo": "Regshot",
                     "stars": 539
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -243,7 +256,8 @@
                     "owner": "LRN",
                     "repo": "ntldd",
                     "stars": 98
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": null,
@@ -264,8 +278,9 @@
                     "last_commit": "2026-06-06T12:46:00Z",
                     "owner": "hasherezade",
                     "repo": "pe-sieve",
-                    "stars": 3868
-                  }
+                    "stars": 3870
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -280,7 +295,8 @@
                     "owner": "hasherezade",
                     "repo": "hollows_hunter",
                     "stars": 2401
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": null,
@@ -301,8 +317,9 @@
                     "last_commit": "2025-05-16T13:40:55Z",
                     "owner": "volatilityfoundation",
                     "repo": "volatility",
-                    "stars": 8061
-                  }
+                    "stars": 8062
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": null,
@@ -323,8 +340,9 @@
                     "last_commit": "2026-08-23T04:14:17Z",
                     "owner": "ChangemakerStudios",
                     "repo": "Papercut-SMTP",
-                    "stars": 3325
-                  }
+                    "stars": 3326
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -339,7 +357,8 @@
                     "owner": "dannagle",
                     "repo": "PacketSender",
                     "stars": 2669
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -354,7 +373,8 @@
                     "owner": "httptoolkit",
                     "repo": "httptoolkit-desktop",
                     "stars": 725
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -369,7 +389,8 @@
                     "owner": "Malzilla",
                     "repo": "Malzilla",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": null,
@@ -390,8 +411,9 @@
                     "last_commit": "2026-08-24T18:18:03Z",
                     "owner": "pawelsalawa",
                     "repo": "letos",
-                    "stars": 6717
-                  }
+                    "stars": 6720
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -406,7 +428,8 @@
                     "owner": "stefankueng",
                     "repo": "grepWin",
                     "stars": 2063
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -417,11 +440,12 @@
                     "archived": false,
                     "id": 182052450,
                     "language": "C++",
-                    "last_commit": "2026-08-27T06:26:55Z",
+                    "last_commit": "2026-08-28T06:25:55Z",
                     "owner": "horsicq",
                     "repo": "XMachOViewer",
                     "stars": 960
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -436,7 +460,8 @@
                     "owner": "pvanek",
                     "repo": "sqliteman",
                     "stars": 164
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": null,
@@ -458,7 +483,8 @@
                     "owner": "rhash",
                     "repo": "RHash",
                     "stars": 726
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -473,7 +499,8 @@
                     "owner": "horsicq",
                     "repo": "XOpcodeCalc",
                     "stars": 412
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Mathematical and reverse calculating.",
@@ -501,8 +528,9 @@
                     "last_commit": "2024-07-12T04:17:31Z",
                     "owner": "SychicBoy",
                     "repo": "NETReactorSlayer",
-                    "stars": 1255
-                  }
+                    "stars": 1256
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -517,7 +545,8 @@
                     "owner": "hasherezade",
                     "repo": "mal_unpack",
                     "stars": 836
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -532,7 +561,8 @@
                     "owner": "unipacker",
                     "repo": "unipacker",
                     "stars": 773
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -547,7 +577,8 @@
                     "owner": "Hendi48",
                     "repo": "Magicmida",
                     "stars": 698
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -562,7 +593,8 @@
                     "owner": "ViRb3",
                     "repo": "de4dot-cex",
                     "stars": 575
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -577,7 +609,8 @@
                     "owner": "lifenjoiner",
                     "repo": "ISx",
                     "stars": 233
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -592,7 +625,8 @@
                     "owner": "lifenjoiner",
                     "repo": "ISx",
                     "stars": 233
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -607,7 +641,8 @@
                     "owner": "XenocodeRCE",
                     "repo": "ConfuserEx-Unpacker",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -622,7 +657,8 @@
                     "owner": "fatrolls",
                     "repo": "Quick-Unpack",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Remove PE protection and obfuscation.",
@@ -644,7 +680,8 @@
                     "owner": "orcastor",
                     "repo": "unpack",
                     "stars": 82
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": null,
@@ -666,7 +703,8 @@
                     "owner": "RexProg",
                     "repo": "ILProtectorUnpacker",
                     "stars": 113
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -681,7 +719,8 @@
                     "owner": "ElektroKill",
                     "repo": "ILPUnpack",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": null,
@@ -699,11 +738,12 @@
                     "archived": false,
                     "id": 74962515,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T08:07:15Z",
+                    "last_commit": "2026-08-28T02:07:24Z",
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 35683
-                  }
+                    "stars": 35685
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -717,8 +757,9 @@
                     "last_commit": "2026-07-20T20:41:57Z",
                     "owner": "ius",
                     "repo": "rsatool",
-                    "stars": 1654
-                  }
+                    "stars": 1655
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -732,8 +773,9 @@
                     "last_commit": "2026-07-20T20:41:57Z",
                     "owner": "ius",
                     "repo": "rsatool",
-                    "stars": 1654
-                  }
+                    "stars": 1655
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -747,8 +789,9 @@
                     "last_commit": "2024-05-08T08:33:24Z",
                     "owner": "blackploit",
                     "repo": "hash-identifier",
-                    "stars": 638
-                  }
+                    "stars": 639
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -763,7 +806,8 @@
                     "owner": "mrexodia",
                     "repo": "akt",
                     "stars": 90
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -778,7 +822,8 @@
                     "owner": "Smithsonian",
                     "repo": "MD5_tool",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -793,7 +838,8 @@
                     "owner": "sceners",
                     "repo": "snd-reverser-tool",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -808,7 +854,8 @@
                     "owner": "ohEmily",
                     "repo": "RSA_accelerator",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Decode hashed values (Crypto).",
@@ -829,8 +876,9 @@
                     "last_commit": "2026-07-29T01:21:27Z",
                     "owner": "LongSoft",
                     "repo": "UEFITool",
-                    "stars": 5643
-                  }
+                    "stars": 5642
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -844,8 +892,9 @@
                     "last_commit": "2024-07-06T08:32:33Z",
                     "owner": "Bioruebe",
                     "repo": "UniExtract2",
-                    "stars": 4408
-                  }
+                    "stars": 4410
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -860,7 +909,8 @@
                     "owner": "horsicq",
                     "repo": "PDBRipper",
                     "stars": 903
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -874,8 +924,9 @@
                     "last_commit": "2026-08-05T17:59:57Z",
                     "owner": "Jakiboy",
                     "repo": "Ratr",
-                    "stars": 23
-                  }
+                    "stars": 24
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Extract PE and other binary files.",
@@ -896,8 +947,9 @@
                     "last_commit": "2026-04-02T20:02:48Z",
                     "owner": "activescott",
                     "repo": "lessmsi",
-                    "stars": 1753
-                  }
+                    "stars": 1754
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -912,7 +964,8 @@
                     "owner": "WhatTheBlock",
                     "repo": "innounp",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -927,7 +980,8 @@
                     "owner": "Jakiboy",
                     "repo": "DeepResolver",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -942,7 +996,8 @@
                     "owner": "Malzilla",
                     "repo": "InnoBF",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": null,
@@ -964,7 +1019,8 @@
                     "owner": "keydet89",
                     "repo": "RegRipper3.0",
                     "stars": 715
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": null,
@@ -992,8 +1048,9 @@
                     "last_commit": "2026-08-23T23:13:49Z",
                     "owner": "x64dbg",
                     "repo": "x64dbg",
-                    "stars": 49310
-                  }
+                    "stars": 49324
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1008,7 +1065,8 @@
                     "owner": "dnSpy",
                     "repo": "dnSpy",
                     "stars": 29691
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1019,11 +1077,12 @@
                     "archived": false,
                     "id": 4869294,
                     "language": "C",
-                    "last_commit": "2026-08-27T08:56:54Z",
+                    "last_commit": "2026-08-28T05:16:57Z",
                     "owner": "radareorg",
                     "repo": "radare2",
-                    "stars": 24658
-                  }
+                    "stars": 24663
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1037,8 +1096,9 @@
                     "last_commit": "2026-08-22T19:13:16Z",
                     "owner": "rizinorg",
                     "repo": "cutter",
-                    "stars": 19595
-                  }
+                    "stars": 19603
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Interactive disassembly and runtime manipulation.",
@@ -1059,8 +1119,9 @@
                     "last_commit": "2026-08-25T16:51:31Z",
                     "owner": "NationalSecurityAgency",
                     "repo": "ghidra",
-                    "stars": 72929
-                  }
+                    "stars": 73070
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1074,8 +1135,9 @@
                     "last_commit": "2026-08-24T16:00:15Z",
                     "owner": "capstone-engine",
                     "repo": "capstone",
-                    "stars": 8975
-                  }
+                    "stars": 8976
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1090,7 +1152,8 @@
                     "owner": "WebAssembly",
                     "repo": "wabt",
                     "stars": 8105
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1105,7 +1168,8 @@
                     "owner": "bitdefender",
                     "repo": "bddisasm",
                     "stars": 1083
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1120,7 +1184,8 @@
                     "owner": "hasherezade",
                     "repo": "ViDi",
                     "stars": 80
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1135,7 +1200,8 @@
                     "owner": "Rustemsoft",
                     "repo": "Refractor-.NET-assembly-browser-and-decompiler",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Transforme machine code into Assembly language.",
@@ -1156,8 +1222,9 @@
                     "last_commit": "2026-08-19T18:52:12Z",
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 50231
-                  }
+                    "stars": 50239
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1168,11 +1235,12 @@
                     "archived": false,
                     "id": 1327739,
                     "language": "C#",
-                    "last_commit": "2026-08-27T08:51:07Z",
+                    "last_commit": "2026-08-27T21:15:37Z",
                     "owner": "icsharpcode",
                     "repo": "ILSpy",
-                    "stars": 25960
-                  }
+                    "stars": 25966
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1186,8 +1254,9 @@
                     "last_commit": "2026-07-17T04:48:36Z",
                     "owner": "Konloch",
                     "repo": "bytecode-viewer",
-                    "stars": 15615
-                  }
+                    "stars": 15616
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1202,7 +1271,8 @@
                     "owner": "java-decompiler",
                     "repo": "jd-gui",
                     "stars": 15180
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1217,7 +1287,8 @@
                     "owner": "jindrapetrik",
                     "repo": "jpexs-decompiler",
                     "stars": 5829
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1232,7 +1303,8 @@
                     "owner": "loerting",
                     "repo": "JByteMod-Beta",
                     "stars": 858
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Revert the process of compilation.",
@@ -1253,8 +1325,9 @@
                     "last_commit": "2026-08-26T21:13:06Z",
                     "owner": "WerWolv",
                     "repo": "ImHex",
-                    "stars": 54578
-                  }
+                    "stars": 54587
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Edit PE hexadecimal representation.",
@@ -1279,11 +1352,12 @@
                     "archived": false,
                     "id": 9405122,
                     "language": "Meson",
-                    "last_commit": "2026-08-18T13:32:43Z",
+                    "last_commit": "2026-08-27T16:26:32Z",
                     "owner": "frida",
                     "repo": "frida",
-                    "stars": 21759
-                  }
+                    "stars": 21768
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1297,8 +1371,9 @@
                     "last_commit": "2025-04-19T06:31:10Z",
                     "owner": "cheat-engine",
                     "repo": "cheat-engine",
-                    "stars": 19059
-                  }
+                    "stars": 19061
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1312,8 +1387,9 @@
                     "last_commit": "2024-05-10T06:24:23Z",
                     "owner": "ReClassNET",
                     "repo": "ReClass.NET",
-                    "stars": 2190
-                  }
+                    "stars": 2189
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1328,7 +1404,8 @@
                     "owner": "horsicq",
                     "repo": "XELFViewer",
                     "stars": 1584
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1343,7 +1420,8 @@
                     "owner": "NtQuery",
                     "repo": "Scylla",
                     "stars": 1418
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1354,11 +1432,12 @@
                     "archived": false,
                     "id": 213965467,
                     "language": "QMake",
-                    "last_commit": "2026-08-27T06:05:42Z",
+                    "last_commit": "2026-08-28T06:05:45Z",
                     "owner": "horsicq",
                     "repo": "XPEViewer",
-                    "stars": 1229
-                  }
+                    "stars": 1230
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1373,7 +1452,8 @@
                     "owner": "petoolse",
                     "repo": "petools",
                     "stars": 1197
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1388,7 +1468,8 @@
                     "owner": "KDE",
                     "repo": "kdiff3",
                     "stars": 611
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Compile, Inject, Patch, Build and Reconstruct PE.",
@@ -1410,7 +1491,8 @@
                     "owner": "EasyHook",
                     "repo": "EasyHook",
                     "stars": 3292
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1424,8 +1506,9 @@
                     "last_commit": "2021-05-17T19:13:29Z",
                     "owner": "DarthTon",
                     "repo": "Xenos",
-                    "stars": 2646
-                  }
+                    "stars": 2645
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1440,7 +1523,8 @@
                     "owner": "MojtabaTajik",
                     "repo": "Robber",
                     "stars": 799
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": null,
@@ -1461,8 +1545,9 @@
                     "last_commit": "2026-05-27T16:45:01Z",
                     "owner": "exiftool",
                     "repo": "exiftool",
-                    "stars": 4984
-                  }
+                    "stars": 4988
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1473,11 +1558,12 @@
                     "archived": false,
                     "id": 107807404,
                     "language": "C++",
-                    "last_commit": "2026-08-22T11:39:55Z",
+                    "last_commit": "2026-08-28T02:09:59Z",
                     "owner": "FarGroup",
                     "repo": "FarManager",
-                    "stars": 2213
-                  }
+                    "stars": 2214
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1492,7 +1578,8 @@
                     "owner": "StegHigh",
                     "repo": "steghide",
                     "stars": 772
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1507,7 +1594,8 @@
                     "owner": "zaro",
                     "repo": "pdf-metadata-editor",
                     "stars": 226
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1522,7 +1610,8 @@
                     "owner": "darhmedia",
                     "repo": "DMcsvEditor",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": null,
@@ -1543,8 +1632,9 @@
                     "last_commit": "2026-08-27T06:20:53Z",
                     "owner": "winscp",
                     "repo": "winscp",
-                    "stars": 3791
-                  }
+                    "stars": 3794
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": null,
@@ -1573,7 +1663,8 @@
                     "owner": "jmacd",
                     "repo": "xdelta",
                     "stars": 1338
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Build binary patcher.",
@@ -1595,7 +1686,8 @@
                     "owner": "milkytracker",
                     "repo": "MilkyTracker",
                     "stars": 2091
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1606,11 +1698,12 @@
                     "archived": false,
                     "id": 82913630,
                     "language": "C++",
-                    "last_commit": "2026-08-19T07:44:18Z",
+                    "last_commit": "2026-08-27T19:13:34Z",
                     "owner": "OpenMPT",
                     "repo": "openmpt",
                     "stars": 770
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1625,7 +1718,8 @@
                     "owner": "8bitbubsy",
                     "repo": "pt2-clone",
                     "stars": 660
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Build patcher sounds (MX).",
@@ -1653,8 +1747,9 @@
                     "last_commit": "2026-08-19T23:47:10Z",
                     "owner": "netwide-assembler",
                     "repo": "nasm",
-                    "stars": 3288
-                  }
+                    "stars": 3290
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Assembling Machine code.",
@@ -1676,7 +1771,8 @@
                     "owner": "x64dbg",
                     "repo": "ScyllaHide",
                     "stars": 4271
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Bypass runtime protections, anti-debugging techniques, hardware dongles, and licensing management.",
@@ -1697,8 +1793,9 @@
                     "last_commit": "2024-06-07T08:59:08Z",
                     "owner": "mkaring",
                     "repo": "ConfuserEx",
-                    "stars": 2898
-                  }
+                    "stars": 2899
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Compress and protect executable files.",
@@ -1719,8 +1816,9 @@
                     "last_commit": "2026-08-24T13:48:45Z",
                     "owner": "Guardsquare",
                     "repo": "proguard",
-                    "stars": 3638
-                  }
+                    "stars": 3639
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1735,7 +1833,8 @@
                     "owner": "bytecode77",
                     "repo": "pe-union",
                     "stars": 737
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": null,
@@ -1753,11 +1852,12 @@
                     "archived": false,
                     "id": 67031040,
                     "language": "C++",
-                    "last_commit": "2026-08-27T11:23:16Z",
+                    "last_commit": "2026-08-27T14:51:22Z",
                     "owner": "upx",
                     "repo": "upx",
-                    "stars": 17820
-                  }
+                    "stars": 17817
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": null,
@@ -1778,8 +1878,9 @@
                     "last_commit": "2026-06-02T09:25:23Z",
                     "owner": "balena-io",
                     "repo": "etcher",
-                    "stars": 34242
-                  }
+                    "stars": 34243
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1790,11 +1891,12 @@
                     "archived": false,
                     "id": 266280291,
                     "language": "Python",
-                    "last_commit": "2026-08-26T15:54:56Z",
+                    "last_commit": "2026-08-27T15:53:57Z",
                     "owner": "scito",
                     "repo": "extract_otp_secrets",
-                    "stars": 1647
-                  }
+                    "stars": 1648
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Mbile RE toolkits.",
@@ -1815,8 +1917,9 @@
                     "last_commit": "2026-08-26T10:30:33Z",
                     "owner": "iBotPeaches",
                     "repo": "Apktool",
-                    "stars": 25388
-                  }
+                    "stars": 25399
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1830,8 +1933,9 @@
                     "last_commit": "2025-01-19T09:48:35Z",
                     "owner": "kefir500",
                     "repo": "apk-editor-studio",
-                    "stars": 1647
-                  }
+                    "stars": 1645
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1845,8 +1949,9 @@
                     "last_commit": "2026-08-26T13:55:36Z",
                     "owner": "zacharee",
                     "repo": "Bifrost",
-                    "stars": 1563
-                  }
+                    "stars": 1565
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1860,8 +1965,9 @@
                     "last_commit": "2026-05-22T05:18:38Z",
                     "owner": "SlackingVeteran",
                     "repo": "frija",
-                    "stars": 741
-                  }
+                    "stars": 738
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1876,7 +1982,8 @@
                     "owner": "horsicq",
                     "repo": "XAPKDetector",
                     "stars": 693
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1891,7 +1998,8 @@
                     "owner": "APK-Multi-Tool",
                     "repo": "APK-Multi-Tool",
                     "stars": 243
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": null,
@@ -1913,7 +2021,8 @@
                     "owner": "foxlet",
                     "repo": "bootra1n",
                     "stars": 738
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1928,7 +2037,8 @@
                     "owner": "asineth0",
                     "repo": "checkn1x",
                     "stars": 626
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": null,
@@ -1949,8 +2059,9 @@
                     "last_commit": "2022-12-08T15:37:37Z",
                     "owner": "Perfare",
                     "repo": "AssetStudio",
-                    "stars": 15604
-                  }
+                    "stars": 15602
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1964,8 +2075,9 @@
                     "last_commit": "2023-12-31T04:40:19Z",
                     "owner": "SeriousCache",
                     "repo": "UABE",
-                    "stars": 4143
-                  }
+                    "stars": 4142
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1980,7 +2092,8 @@
                     "owner": "mafaca",
                     "repo": "UtinyRipper",
                     "stars": 3093
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -1994,8 +2107,9 @@
                     "last_commit": "2024-06-05T19:34:46Z",
                     "owner": "elbereth",
                     "repo": "DragonUnPACKer",
-                    "stars": 254
-                  }
+                    "stars": 255
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Games & Devices RE toolkits.",
@@ -2016,8 +2130,9 @@
                     "last_commit": "2026-08-20T17:55:26Z",
                     "owner": "XorTroll",
                     "repo": "Goldleaf",
-                    "stars": 3026
-                  }
+                    "stars": 3029
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2031,8 +2146,9 @@
                     "last_commit": "2026-07-17T11:40:16Z",
                     "owner": "rashevskyv",
                     "repo": "dbi",
-                    "stars": 2925
-                  }
+                    "stars": 2927
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2043,11 +2159,12 @@
                     "archived": false,
                     "id": 169933891,
                     "language": "Java",
-                    "last_commit": "2026-08-20T23:37:52Z",
+                    "last_commit": "2026-08-27T23:02:20Z",
                     "owner": "developersu",
                     "repo": "ns-usbloader",
                     "stars": 2320
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2062,7 +2179,8 @@
                     "owner": "eliboa",
                     "repo": "TegraRcmGUI",
                     "stars": 2294
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2077,7 +2195,8 @@
                     "owner": "spacemeowx2",
                     "repo": "switch-lan-play",
                     "stars": 2013
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2092,7 +2211,8 @@
                     "owner": "exelix11",
                     "repo": "SysDVR",
                     "stars": 2011
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2106,8 +2226,9 @@
                     "last_commit": "2026-07-08T22:48:54Z",
                     "owner": "fortheusers",
                     "repo": "hb-appstore",
-                    "stars": 1444
-                  }
+                    "stars": 1446
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2122,7 +2243,8 @@
                     "owner": "DarkMatterCore",
                     "repo": "nxdumptool",
                     "stars": 1282
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2137,7 +2259,8 @@
                     "owner": "blawar",
                     "repo": "nut",
                     "stars": 1266
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2152,7 +2275,8 @@
                     "owner": "exelix11",
                     "repo": "SwitchThemeInjector",
                     "stars": 1235
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2167,7 +2291,8 @@
                     "owner": "CTCaer",
                     "repo": "jc_toolkit",
                     "stars": 1101
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2182,7 +2307,8 @@
                     "owner": "eliboa",
                     "repo": "NxNandManager",
                     "stars": 971
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2197,7 +2323,8 @@
                     "owner": "fourminute",
                     "repo": "Fluffy",
                     "stars": 269
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2212,7 +2339,8 @@
                     "owner": "FuryBaguette",
                     "repo": "SwitchLayoutEditor",
                     "stars": 215
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2227,7 +2355,8 @@
                     "owner": "sthetix",
                     "repo": "NANDFixPro",
                     "stars": 118
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2242,7 +2371,8 @@
                     "owner": "NX-Editor",
                     "repo": "NxEditor",
                     "stars": 100
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2257,7 +2387,8 @@
                     "owner": "TheyKilledKenny",
                     "repo": "Emutool",
                     "stars": 91
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2272,7 +2403,8 @@
                     "owner": "KranKRival",
                     "repo": "EX-BootLogo-Nintendo-Switch-Bootlogo-Converter",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2287,7 +2419,8 @@
                     "owner": "ThemezerNX",
                     "repo": "LayoutKit",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": null,
@@ -2308,8 +2441,9 @@
                     "last_commit": "2026-08-27T05:16:25Z",
                     "owner": "logisim-evolution",
                     "repo": "logisim-evolution",
-                    "stars": 7490
-                  }
+                    "stars": 7494
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2320,11 +2454,12 @@
                     "archived": false,
                     "id": 144036833,
                     "language": "Go",
-                    "last_commit": "2026-08-26T12:51:10Z",
+                    "last_commit": "2026-08-27T15:15:16Z",
                     "owner": "arduino",
                     "repo": "arduino-cli",
-                    "stars": 4998
-                  }
+                    "stars": 5000
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2338,8 +2473,9 @@
                     "last_commit": "2026-08-12T09:15:32Z",
                     "owner": "fritzing",
                     "repo": "fritzing-app",
-                    "stars": 4786
-                  }
+                    "stars": 4788
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2354,7 +2490,8 @@
                     "owner": "lcgamboa",
                     "repo": "picsimlab",
                     "stars": 662
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2369,7 +2506,8 @@
                     "owner": "SimulIDE",
                     "repo": "SimulIDE",
                     "stars": 303
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Circuit and logical simulation.",
@@ -2390,8 +2528,9 @@
                     "last_commit": "2026-02-25T11:53:38Z",
                     "owner": "DevToys-app",
                     "repo": "DevToys",
-                    "stars": 31903
-                  }
+                    "stars": 31900
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2405,8 +2544,9 @@
                     "last_commit": "2026-08-24T15:53:50Z",
                     "owner": "cmderdev",
                     "repo": "cmder",
-                    "stars": 26996
-                  }
+                    "stars": 26997
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2420,8 +2560,9 @@
                     "last_commit": "2024-06-17T14:34:17Z",
                     "owner": "Embarcadero",
                     "repo": "Dev-Cpp",
-                    "stars": 2991
-                  }
+                    "stars": 2989
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2436,7 +2577,8 @@
                     "owner": "lmbelo",
                     "repo": "pyscripter",
                     "stars": 1249
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Programming tools (+ Compilators).",
@@ -2457,8 +2599,9 @@
                     "last_commit": "2026-08-25T01:31:44Z",
                     "owner": "sandboxie-plus",
                     "repo": "Sandboxie",
-                    "stars": 19265
-                  }
+                    "stars": 19273
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2469,11 +2612,12 @@
                     "archived": false,
                     "id": 537699,
                     "language": "C",
-                    "last_commit": "2026-08-27T04:13:03Z",
+                    "last_commit": "2026-08-28T04:13:02Z",
                     "owner": "Kitware",
                     "repo": "CMake",
-                    "stars": 8046
-                  }
+                    "stars": 8047
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2488,7 +2632,8 @@
                     "owner": "nmap",
                     "repo": "npcap",
                     "stars": 3581
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 },
                 {
                   "node_type": "item",
@@ -2503,7 +2648,8 @@
                     "owner": "nmap",
                     "repo": "npcap",
                     "stars": 3581
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:56:55.191Z"
                 }
               ],
               "description": "Toolkit's standalone and offline dependencies installers.",
@@ -2520,7 +2666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:13.664Z",
+    "last_updated": "2026-08-28T06:56:55.191Z",
     "original_repository_info": {
       "archived": false,
       "id": 622217911,
@@ -2528,7 +2674,7 @@
       "last_commit": "2026-05-23T04:49:43Z",
       "owner": "Jakiboy",
       "repo": "ReVens",
-      "stars": 351
+      "stars": 352
     },
     "original_repository_sha": "272d3fd82a41b3bb1d42bd3073dca7c7fef677a2",
     "enhanced_repository": "enhansome/enhansome-ReVens",
