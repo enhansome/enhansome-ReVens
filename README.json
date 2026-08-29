@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The pattern matching swiss knife",
+                    "homepage": "https://virustotal.github.io/yara/",
                     "id": 7037996,
                     "language": "C",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-25T10:54:31Z",
+                    "open_issues": 170,
                     "owner": "VirusTotal",
                     "repo": "yara",
-                    "stars": 9836
+                    "stars": 9836,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -30,12 +35,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The FLARE team's open-source tool to identify capabilities in executable files.",
+                    "homepage": "https://mandiant.github.io/capa/",
                     "id": 272815213,
                     "language": "Python",
-                    "last_commit": "2026-08-28T04:33:08Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T12:59:49Z",
+                    "open_issues": 296,
                     "owner": "mandiant",
                     "repo": "capa",
-                    "stars": 6157
+                    "stars": 6160,
+                    "topics": [
+                      "binary-analysis",
+                      "gsoc-2026",
+                      "malware-analysis",
+                      "reverse-engineering",
+                      "threat-intelligence"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -46,12 +62,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Portable Executable reversing tool with a friendly GUI ",
+                    "homepage": "https://hshrzd.wordpress.com/pe-bear/",
                     "id": 537996647,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-06-10T11:08:16Z",
+                    "open_issues": 16,
                     "owner": "hasherezade",
                     "repo": "pe-bear",
-                    "stars": 3784
+                    "stars": 3785,
+                    "topics": [
+                      "bearparser",
+                      "malware-analysis",
+                      "multiplatform",
+                      "pe-analyzer",
+                      "pe-analyzer-gui",
+                      "pe-editor",
+                      "pe-file",
+                      "pe-format"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -62,12 +92,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "x64 Dynamic Reverse Engineering Toolkit",
+                    "homepage": null,
                     "id": 618748378,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2023-05-30T00:56:26Z",
+                    "open_issues": 0,
                     "owner": "zer0condition",
                     "repo": "ReverseKit",
-                    "stars": 777
+                    "stars": 778,
+                    "topics": [
+                      "bypass",
+                      "hook",
+                      "imgui",
+                      "imports",
+                      "reverseengineering",
+                      "syscalls"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -78,12 +120,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "simple YARA-based IOC scanner",
+                    "homepage": null,
                     "id": 135199430,
                     "language": "Go",
+                    "license": "LGPL-3.0",
                     "last_commit": "2026-03-17T19:45:46Z",
+                    "open_issues": 13,
                     "owner": "spyre-project",
                     "repo": "spyre",
-                    "stars": 181
+                    "stars": 181,
+                    "topics": [
+                      "go",
+                      "golang",
+                      "hacktoberfest",
+                      "incident-response",
+                      "ioc",
+                      "linux",
+                      "macos",
+                      "macosx",
+                      "scanner",
+                      "security",
+                      "windows",
+                      "yara",
+                      "yara-scanner"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -94,12 +155,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ExeSpy is a cross-platform PE viewer for EXE and DLL files",
+                    "homepage": "https://ajsmith.org/projects/exespy/",
                     "id": 476230465,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-02-19T01:33:02Z",
+                    "open_issues": 0,
                     "owner": "andyjsmith",
                     "repo": "Exe-Spy",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": [
+                      "forensics",
+                      "forensics-tools",
+                      "gui",
+                      "pe-file",
+                      "portable-executable",
+                      "windows-forensics"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -117,12 +190,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DIE engine",
+                    "homepage": null,
                     "id": 25164176,
                     "language": "C++",
-                    "last_commit": "2026-08-25T18:57:17Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T18:52:25Z",
+                    "open_issues": 17,
                     "owner": "horsicq",
                     "repo": "DIE-engine",
-                    "stars": 3240
+                    "stars": 3240,
+                    "topics": [
+                      "binary-analysis",
+                      "disassembler",
+                      "elf",
+                      "entropy",
+                      "hacktoberfest",
+                      "hacktoberfest22",
+                      "program-analysis",
+                      "reverse-engineering",
+                      "signature",
+                      "unpacker",
+                      "yara"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -133,12 +223,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Linker/Compiler/Tool detector  for Windows, Linux and MacOS.",
+                    "homepage": null,
                     "id": 159678706,
                     "language": "C++",
-                    "last_commit": "2026-08-25T18:56:28Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T18:51:51Z",
+                    "open_issues": 2,
                     "owner": "horsicq",
                     "repo": "Nauz-File-Detector",
-                    "stars": 582
+                    "stars": 582,
+                    "topics": [
+                      "detect",
+                      "hacktoberfest",
+                      "hacktoberfest2023",
+                      "malware-analysis",
+                      "malware-detection",
+                      "malware-research",
+                      "reverse-engineering",
+                      "signature"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -156,12 +260,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Free Windows Detector Software",
+                    "homepage": "https://github.com/ExeinfoASL/ASL",
                     "id": 227461313,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-08-08T10:38:17Z",
+                    "open_issues": 8,
                     "owner": "ExeinfoASL",
                     "repo": "ASL",
-                    "stars": 1142
+                    "stars": 1142,
+                    "topics": [
+                      "detector",
+                      "exeinfo"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -172,12 +284,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bunch of different UPX Unpackers I found",
+                    "homepage": null,
                     "id": 224945282,
                     "language": "Roff",
+                    "license": null,
                     "last_commit": "2019-11-30T01:49:09Z",
+                    "open_issues": 0,
                     "owner": "bdunlap9",
                     "repo": "UPX-Unpackers",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -195,12 +312,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Driver Store Explorer",
+                    "homepage": null,
                     "id": 61176492,
                     "language": "C#",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-26T04:53:18Z",
+                    "open_issues": 24,
                     "owner": "lostindark",
                     "repo": "DriverStoreExplorer",
-                    "stars": 11509
+                    "stars": 11516,
+                    "topics": [
+                      "driver",
+                      "driver-store",
+                      "driverstore"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -211,12 +337,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A free but powerful Windows kernel research tool.",
+                    "homepage": "https://github.com/AxtMueller/Windows-Kernel-Explorer#contact",
                     "id": 159031354,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-12-14T04:44:06Z",
+                    "open_issues": 0,
                     "owner": "AxtMueller",
                     "repo": "Windows-Kernel-Explorer",
-                    "stars": 2716
+                    "stars": 2719,
+                    "topics": [
+                      "ark",
+                      "debugger",
+                      "driver",
+                      "kernel",
+                      "pchunter",
+                      "win64ast",
+                      "windows",
+                      "wke"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -234,12 +374,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Regshot is a small, free and open-source registry compare utility that allows you to quickly take a snapshot of your registry and then compare it with a second one - done after doing system changes or installing a new software product",
+                    "homepage": null,
                     "id": 192133606,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2019-06-15T23:55:35Z",
+                    "open_issues": 3,
                     "owner": "Seabreg",
                     "repo": "Regshot",
-                    "stars": 539
+                    "stars": 539,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -250,12 +395,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tracks dependencies for Windows EXE and DLL PE-files (Portable Executable), resembles ldd from libc",
+                    "homepage": null,
                     "id": 650755,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2019-04-29T16:29:08Z",
+                    "open_issues": 3,
                     "owner": "LRN",
                     "repo": "ntldd",
-                    "stars": 98
+                    "stars": 98,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -273,12 +423,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).",
+                    "homepage": "https://hshrzd.wordpress.com/pe-sieve/",
                     "id": 101007636,
                     "language": "C++",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-06-06T12:46:00Z",
+                    "open_issues": 7,
                     "owner": "hasherezade",
                     "repo": "pe-sieve",
-                    "stars": 3870
+                    "stars": 3873,
+                    "topics": [
+                      "anti-malware",
+                      "hooking",
+                      "libpeconv",
+                      "malware-analysis",
+                      "memory-forensics",
+                      "pe-analyzer",
+                      "pe-dumper",
+                      "pe-format",
+                      "pe-sieve",
+                      "process-analyzer",
+                      "scans"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -289,12 +456,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).",
+                    "homepage": "https://github.com/hasherezade/hollows_hunter/wiki",
                     "id": 117128578,
                     "language": "C",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-06-06T12:47:20Z",
+                    "open_issues": 2,
                     "owner": "hasherezade",
                     "repo": "hollows_hunter",
-                    "stars": 2401
+                    "stars": 2402,
+                    "topics": [
+                      "anti-malware",
+                      "malware-analysis",
+                      "malware-detection",
+                      "memory-forensics",
+                      "pe-sieve"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -312,12 +490,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "An advanced memory forensics framework",
+                    "homepage": "http://volatilityfoundation.org/",
                     "id": 19114225,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2025-05-16T13:40:55Z",
+                    "open_issues": 222,
                     "owner": "volatilityfoundation",
                     "repo": "volatility",
-                    "stars": 8062
+                    "stars": 8062,
+                    "topics": [
+                      "malware",
+                      "memory",
+                      "python",
+                      "ram",
+                      "volatility-framework"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -335,12 +524,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Papercut SMTP -- The Simple Desktop Email Server",
+                    "homepage": null,
                     "id": 41457044,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-23T04:14:17Z",
+                    "open_issues": 4,
                     "owner": "ChangemakerStudios",
                     "repo": "Papercut-SMTP",
-                    "stars": 3326
+                    "stars": 3326,
+                    "topics": [
+                      "development",
+                      "development-tools",
+                      "email",
+                      "papercut",
+                      "server",
+                      "smtp",
+                      "smtp-server",
+                      "testing",
+                      "wpf"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -351,12 +555,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Network utility for sending / receiving TCP, UDP, SSL, HTTP",
+                    "homepage": "https://packetsender.com",
                     "id": 30732199,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-26T01:41:46Z",
+                    "open_issues": 67,
                     "owner": "dannagle",
                     "repo": "PacketSender",
-                    "stars": 2669
+                    "stars": 2670,
+                    "topics": [
+                      "cross-platform",
+                      "dark-mode",
+                      "http-client",
+                      "ipv4",
+                      "ipv6",
+                      "networking",
+                      "packet-sender",
+                      "packetsender",
+                      "qt5",
+                      "ssl",
+                      "ssl-client",
+                      "ssl-server",
+                      "tcp",
+                      "tcp-client",
+                      "tcp-server",
+                      "traffic-generator",
+                      "udp",
+                      "udp-server",
+                      "ui-generator"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -367,12 +596,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Electron wrapper to build and distribute HTTP Toolkit for the desktop",
+                    "homepage": "https://httptoolkit.com",
                     "id": 159169142,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-21T13:58:02Z",
+                    "open_issues": 18,
                     "owner": "httptoolkit",
                     "repo": "httptoolkit-desktop",
-                    "stars": 725
+                    "stars": 725,
+                    "topics": [
+                      "desktop-app",
+                      "developer-tools",
+                      "electron",
+                      "electron-forge",
+                      "http",
+                      "tools"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -383,12 +624,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Web-malware-hunting tool (Cloned from: https://sourceforge.net/projects/malzilla/)",
+                    "homepage": "https://malzilla.org",
                     "id": 1042226523,
                     "language": "Pascal",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-08-21T18:25:51Z",
+                    "open_issues": 0,
                     "owner": "Malzilla",
                     "repo": "Malzilla",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -406,12 +652,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A free, open source, multi-platform SQLite database manager.",
+                    "homepage": "https://letos.org",
                     "id": 117119718,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T18:18:03Z",
+                    "open_issues": 488,
                     "owner": "pawelsalawa",
                     "repo": "letos",
-                    "stars": 6720
+                    "stars": 6721,
+                    "topics": [
+                      "cpp",
+                      "database",
+                      "database-management",
+                      "qt",
+                      "qt5",
+                      "sqlcipher",
+                      "sqlite",
+                      "sqlite3-database",
+                      "wxsqlite3"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -422,12 +683,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A powerful and fast search tool using regular expressions",
+                    "homepage": "https://tools.stefankueng.com/grepWin.html",
                     "id": 127288330,
                     "language": "C++",
-                    "last_commit": "2026-08-21T19:36:35Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-28T18:20:05Z",
+                    "open_issues": 46,
                     "owner": "stefankueng",
                     "repo": "grepWin",
-                    "stars": 2063
+                    "stars": 2063,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -438,12 +704,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " XMachOViewer is a Mach-O viewer for Windows, Linux and MacOS",
+                    "homepage": "http://ntinfo.biz",
                     "id": 182052450,
                     "language": "C++",
-                    "last_commit": "2026-08-28T06:25:55Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T18:56:39Z",
+                    "open_issues": 4,
                     "owner": "horsicq",
                     "repo": "XMachOViewer",
-                    "stars": 960
+                    "stars": 960,
+                    "topics": [
+                      "hacktoberfest",
+                      "hacktoberfest2023",
+                      "macho",
+                      "macho-loader",
+                      "macho-parser",
+                      "macho64",
+                      "machoexplorer",
+                      "machoview",
+                      "osx-application",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -454,12 +736,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 8049408,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-05-19T06:40:59Z",
+                    "open_issues": 11,
                     "owner": "pvanek",
                     "repo": "sqliteman",
-                    "stars": 164
+                    "stars": 164,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -477,12 +764,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Great utility for computing hash sums",
+                    "homepage": "http://rhash.sf.net",
                     "id": 1882998,
                     "language": "C",
+                    "license": "0BSD",
                     "last_commit": "2026-04-11T08:00:28Z",
+                    "open_issues": 43,
                     "owner": "rhash",
                     "repo": "RHash",
-                    "stars": 726
+                    "stars": 726,
+                    "topics": [
+                      "checksum",
+                      "digest",
+                      "edon-r",
+                      "gost3411-2012",
+                      "hash-functions",
+                      "librhash",
+                      "linux",
+                      "macos",
+                      "magnet-link",
+                      "message-digests",
+                      "rhash",
+                      "sha3",
+                      "unix",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -493,12 +800,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Opcode calculator / ASM calculator",
+                    "homepage": null,
                     "id": 192907540,
                     "language": "C++",
-                    "last_commit": "2026-08-25T18:54:05Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T18:49:59Z",
+                    "open_issues": 6,
                     "owner": "horsicq",
                     "repo": "XOpcodeCalc",
-                    "stars": 412
+                    "stars": 412,
+                    "topics": [
+                      "asm",
+                      "asmx86",
+                      "assembler",
+                      "calculator",
+                      "disassembler",
+                      "dissaseembly",
+                      "hacktoberfest",
+                      "hacktoberfest2023",
+                      "opcode",
+                      "x86",
+                      "x86-64"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -523,12 +847,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open source (GPLv3) deobfuscator and unpacker for Eziriz .NET Reactor",
+                    "homepage": "https://www.CodeStrikers.org",
                     "id": 413479641,
                     "language": "C#",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-07-12T04:17:31Z",
+                    "open_issues": 27,
                     "owner": "SychicBoy",
                     "repo": "NETReactorSlayer",
-                    "stars": 1256
+                    "stars": 1257,
+                    "topics": [
+                      "deobfuscator",
+                      "dnlib",
+                      "dotnet",
+                      "dotnet-reactor",
+                      "reverse-engineering",
+                      "unpacker"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -539,12 +875,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dynamic unpacker based on PE-sieve",
+                    "homepage": null,
                     "id": 140192103,
                     "language": "C",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-04-14T13:23:29Z",
+                    "open_issues": 1,
                     "owner": "hasherezade",
                     "repo": "mal_unpack",
-                    "stars": 836
+                    "stars": 836,
+                    "topics": [
+                      "libpeconv",
+                      "malware-analysis",
+                      "malware-unpacker",
+                      "memory-forensics",
+                      "pe-sieve"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -555,12 +902,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automatic and platform-independent unpacker for Windows binaries based on emulation",
+                    "homepage": null,
                     "id": 169604732,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2025-08-18T16:24:51Z",
+                    "open_issues": 28,
                     "owner": "unipacker",
                     "repo": "unipacker",
-                    "stars": 773
+                    "stars": 773,
+                    "topics": [
+                      "debugger",
+                      "dumper",
+                      "emulation",
+                      "packers",
+                      "pefile",
+                      "python",
+                      "reverse-engineering",
+                      "security",
+                      "unicorn-engine",
+                      "unpacker",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -571,12 +935,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Themida unpacker",
+                    "homepage": null,
                     "id": 441734472,
                     "language": "Pascal",
+                    "license": null,
                     "last_commit": "2026-05-14T21:30:18Z",
+                    "open_issues": 18,
                     "owner": "Hendi48",
                     "repo": "Magicmida",
-                    "stars": 698
+                    "stars": 700,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -587,12 +956,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "📦 de4dot deobfuscator with full support for vanilla ConfuserEx",
+                    "homepage": null,
                     "id": 126617169,
                     "language": "C#",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-03-09T17:00:18Z",
+                    "open_issues": 8,
                     "owner": "ViRb3",
                     "repo": "de4dot-cex",
-                    "stars": 575
+                    "stars": 575,
+                    "topics": [
+                      "confuserex",
+                      "csharp",
+                      "de4dot",
+                      "decrypt",
+                      "deobfuscator",
+                      "dotnet"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -603,12 +984,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ISx is an InstallShield installer extractor",
+                    "homepage": null,
                     "id": 117100992,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-07-07T11:17:11Z",
+                    "open_issues": 1,
                     "owner": "lifenjoiner",
                     "repo": "ISx",
-                    "stars": 233
+                    "stars": 233,
+                    "topics": [
+                      "extractor",
+                      "installshield",
+                      "unpacker",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -619,12 +1010,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ISx is an InstallShield installer extractor",
+                    "homepage": null,
                     "id": 117100992,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-07-07T11:17:11Z",
+                    "open_issues": 1,
                     "owner": "lifenjoiner",
                     "repo": "ISx",
-                    "stars": 233
+                    "stars": 233,
+                    "topics": [
+                      "extractor",
+                      "installshield",
+                      "unpacker",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -635,12 +1036,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A dynamic confuserex unpacker that relies on invoke for most things",
+                    "homepage": null,
                     "id": 96931806,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2017-07-11T20:22:58Z",
+                    "open_issues": 0,
                     "owner": "XenocodeRCE",
                     "repo": "ConfuserEx-Unpacker",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -651,12 +1057,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Quick Unpacker x86 / x64",
+                    "homepage": null,
                     "id": 324391788,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2024-06-30T22:39:21Z",
+                    "open_issues": 2,
                     "owner": "fatrolls",
                     "repo": "Quick-Unpack",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -674,12 +1085,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "【WIP】📦 一款脱壳工具，能够识别并尝试脱除常见的PE壳，如UPX、ASPack等，帮助用户进行软件逆向工程和恶意软件分析。This is an unpacking tool that can identify and attempt to remove common PE shells like UPX and ASPack, aiding in software reverse engineering and malware analysis.",
+                    "homepage": null,
                     "id": 827126405,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2025-12-21T13:45:27Z",
+                    "open_issues": 2,
                     "owner": "orcastor",
                     "repo": "unpack",
-                    "stars": 82
+                    "stars": 82,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -697,12 +1113,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ILProtector Unpacker Script",
+                    "homepage": null,
                     "id": 113695752,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2020-08-30T04:41:44Z",
+                    "open_issues": 1,
                     "owner": "RexProg",
                     "repo": "ILProtectorUnpacker",
-                    "stars": 113
+                    "stars": 113,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -713,12 +1134,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unpacker for ILProtector",
+                    "homepage": null,
                     "id": 282963411,
                     "language": "C#",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-02-24T18:35:10Z",
+                    "open_issues": 0,
                     "owner": "ElektroKill",
                     "repo": "ILPUnpack",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -736,12 +1162,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+                    "homepage": "https://gchq.github.io/CyberChef",
                     "id": 74962515,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-28T02:07:24Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T09:29:59Z",
+                    "open_issues": 553,
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 35685
+                    "stars": 35688,
+                    "topics": [
+                      "compression",
+                      "data-analysis",
+                      "data-manipulation",
+                      "encoding",
+                      "encryption",
+                      "hashing",
+                      "parsing"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -752,12 +1191,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "rsatool can be used to calculate RSA and RSA-CRT parameters",
+                    "homepage": null,
                     "id": 3088326,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-07-20T20:41:57Z",
+                    "open_issues": 2,
                     "owner": "ius",
                     "repo": "rsatool",
-                    "stars": 1655
+                    "stars": 1655,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -768,12 +1212,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "rsatool can be used to calculate RSA and RSA-CRT parameters",
+                    "homepage": null,
                     "id": 3088326,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-07-20T20:41:57Z",
+                    "open_issues": 2,
                     "owner": "ius",
                     "repo": "rsatool",
-                    "stars": 1655
+                    "stars": 1655,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -784,12 +1233,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Software to identify the different types of hashes used to encrypt data and especially passwords",
+                    "homepage": "https://www.blackploit.com/",
                     "id": 125155490,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-05-08T08:33:24Z",
+                    "open_issues": 6,
                     "owner": "blackploit",
                     "repo": "hash-identifier",
-                    "stars": 639
+                    "stars": 638,
+                    "topics": [
+                      "hash-algorithm",
+                      "hash-functions",
+                      "identifier"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -800,12 +1258,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Armadillo Key Tool",
+                    "homepage": null,
                     "id": 16460833,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2019-05-26T11:01:53Z",
+                    "open_issues": 1,
                     "owner": "mrexodia",
                     "repo": "akt",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -816,12 +1279,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Utility that calculates, and saves to a file, the MD5 hash of all files in a directory. Digitization Program Office, OCIO",
+                    "homepage": null,
                     "id": 132505618,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-01-31T14:05:15Z",
+                    "open_issues": 3,
                     "owner": "Smithsonian",
                     "repo": "MD5_tool",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -832,12 +1300,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SND Reverser Tool.",
+                    "homepage": "https://defacto2.net/f/b11d03e",
                     "id": 497866651,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2022-05-30T09:13:16Z",
+                    "open_issues": 0,
                     "owner": "sceners",
                     "repo": "snd-reverser-tool",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -848,12 +1321,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "HDL specification, Linux device driver, and user-level code for RSA Box, a hardware implementation of the RSA algorithm.",
+                    "homepage": null,
                     "id": 33088061,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2016-05-11T21:57:27Z",
+                    "open_issues": 2,
                     "owner": "ohEmily",
                     "repo": "RSA_accelerator",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -871,12 +1349,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "UEFI firmware image viewer and editor",
+                    "homepage": null,
                     "id": 13405986,
                     "language": "C",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-07-29T01:21:27Z",
+                    "open_issues": 23,
                     "owner": "LongSoft",
                     "repo": "UEFITool",
-                    "stars": 5642
+                    "stars": 5643,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -887,12 +1370,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Universal Extractor 2 is a tool to extract files from any type of archive or installer.",
+                    "homepage": null,
                     "id": 29245432,
                     "language": "AutoIt",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-07-06T08:32:33Z",
+                    "open_issues": 124,
                     "owner": "Bioruebe",
                     "repo": "UniExtract2",
-                    "stars": 4410
+                    "stars": 4410,
+                    "topics": [
+                      "decompression",
+                      "extractor",
+                      "file-analysis",
+                      "unpacker"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -903,12 +1396,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PDBRipper is a utility for extract an information from PDB-files.",
+                    "homepage": null,
                     "id": 237050734,
                     "language": "C++",
-                    "last_commit": "2026-08-25T19:11:06Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T19:05:01Z",
+                    "open_issues": 18,
                     "owner": "horsicq",
                     "repo": "PDBRipper",
-                    "stars": 903
+                    "stars": 903,
+                    "topics": [
+                      "hacktoberfest",
+                      "hacktoberfest2023",
+                      "pdb",
+                      "pdb-files",
+                      "pdb-parser",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -919,12 +1424,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Router Config Extractor (Huawei, ZTE)",
+                    "homepage": "https://jakiboy.github.io/Ratr/",
                     "id": 707953508,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-05T17:59:57Z",
+                    "open_issues": 0,
                     "owner": "Jakiboy",
                     "repo": "Ratr",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": [
+                      "huawei",
+                      "ppp",
+                      "router",
+                      "security",
+                      "tr069",
+                      "zte"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -942,12 +1459,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A tool to view and extract the contents of an Windows Installer (.msi) file.",
+                    "homepage": "https://lessmsi.activescott.com",
                     "id": 11993845,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-04-02T20:02:48Z",
+                    "open_issues": 57,
                     "owner": "activescott",
                     "repo": "lessmsi",
-                    "stars": 1754
+                    "stars": 1755,
+                    "topics": [
+                      "c-sharp",
+                      "chocolatey",
+                      "extract",
+                      "extract-files",
+                      "install",
+                      "install-script",
+                      "msi",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -958,12 +1489,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "innounp, the Inno Setup Unpacker",
+                    "homepage": "http://innounp.sourceforge.net/",
                     "id": 403190551,
                     "language": "Pascal",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-09-05T01:48:05Z",
+                    "open_issues": 0,
                     "owner": "WhatTheBlock",
                     "repo": "innounp",
-                    "stars": 62
+                    "stars": 62,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -974,12 +1510,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "(DeepRes) Setup Dependency Resolver and Portable Application Creator",
+                    "homepage": null,
                     "id": 1105592066,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-03-31T03:16:45Z",
+                    "open_issues": 0,
                     "owner": "Jakiboy",
                     "repo": "DeepResolver",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -990,12 +1531,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Brute force password-protected InnoSetup-based installers (Cloned from: https://sourceforge.net/projects/malzilla/)",
+                    "homepage": "https://malzilla.org",
                     "id": 1042229291,
                     "language": "Pascal",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-08-21T18:27:39Z",
+                    "open_issues": 0,
                     "owner": "Malzilla",
                     "repo": "InnoBF",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1013,12 +1559,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RegRipper3.0",
+                    "homepage": null,
                     "id": 267355742,
                     "language": "Perl",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-27T13:22:58Z",
+                    "open_issues": 9,
                     "owner": "keydet89",
                     "repo": "RegRipper3.0",
-                    "stars": 715
+                    "stars": 715,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1043,12 +1594,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.",
+                    "homepage": "http://x64dbg.com",
                     "id": 33791743,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-23T23:13:49Z",
+                    "open_issues": 574,
                     "owner": "x64dbg",
                     "repo": "x64dbg",
-                    "stars": 49324
+                    "stars": 49337,
+                    "topics": [
+                      "binary-analysis",
+                      "ctf",
+                      "cybersecurity",
+                      "debugger",
+                      "debugging",
+                      "disassembler",
+                      "dynamic-analysis",
+                      "exploit-development",
+                      "hacking",
+                      "malware-analysis",
+                      "offensive-security",
+                      "oscp",
+                      "program-analysis",
+                      "reverse-engineering",
+                      "security",
+                      "security-tools",
+                      "windows",
+                      "x64",
+                      "x86",
+                      "x86-64"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1059,12 +1636,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": ".NET debugger and assembly editor",
+                    "homepage": null,
                     "id": 38380854,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2020-12-20T23:55:15Z",
+                    "open_issues": 185,
                     "owner": "dnSpy",
                     "repo": "dnSpy",
-                    "stars": 29691
+                    "stars": 29691,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1075,12 +1657,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "UNIX-like reverse engineering framework and command-line toolset",
+                    "homepage": "https://www.radare.org",
                     "id": 4869294,
                     "language": "C",
-                    "last_commit": "2026-08-28T05:16:57Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T01:30:06Z",
+                    "open_issues": 824,
                     "owner": "radareorg",
                     "repo": "radare2",
-                    "stars": 24663
+                    "stars": 24674,
+                    "topics": [
+                      "binary-analysis",
+                      "c",
+                      "commandline",
+                      "disassembler",
+                      "forensics",
+                      "hacktoberfest",
+                      "malware-analysis",
+                      "radare2",
+                      "reverse-engineering",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1091,12 +1689,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Free and Open Source Reverse Engineering Platform powered by rizin",
+                    "homepage": "https://cutter.re",
                     "id": 104732438,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-22T19:13:16Z",
+                    "open_issues": 494,
                     "owner": "rizinorg",
                     "repo": "cutter",
-                    "stars": 19603
+                    "stars": 19613,
+                    "topics": [
+                      "cutter",
+                      "debugger",
+                      "gui",
+                      "reverse-engineering",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1114,12 +1723,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ghidra is a software reverse engineering (SRE) framework",
+                    "homepage": "https://www.nsa.gov/ghidra",
                     "id": 173228436,
                     "language": "Java",
-                    "last_commit": "2026-08-25T16:51:31Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T13:31:09Z",
+                    "open_issues": 1921,
                     "owner": "NationalSecurityAgency",
                     "repo": "ghidra",
-                    "stars": 73070
+                    "stars": 73381,
+                    "topics": [
+                      "disassembler",
+                      "reverse-engineering",
+                      "software-analysis"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1130,12 +1748,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
+                    "homepage": "http://www.capstone-engine.org",
                     "id": 14735429,
                     "language": "C",
-                    "last_commit": "2026-08-24T16:00:15Z",
+                    "license": null,
+                    "last_commit": "2026-08-28T14:18:08Z",
+                    "open_issues": 367,
                     "owner": "capstone-engine",
                     "repo": "capstone",
-                    "stars": 8976
+                    "stars": 8979,
+                    "topics": [
+                      "arm",
+                      "arm64",
+                      "bpf",
+                      "disassembler",
+                      "ethereum",
+                      "framework",
+                      "m0s65xx",
+                      "m680x",
+                      "m68k",
+                      "mips",
+                      "powerpc",
+                      "reverse-engineering",
+                      "riscv",
+                      "security",
+                      "sparc",
+                      "systemz",
+                      "tms320c64x",
+                      "webassembly",
+                      "x86",
+                      "x86-64"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1146,12 +1790,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The WebAssembly Binary Toolkit",
+                    "homepage": null,
                     "id": 42467830,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T07:26:02Z",
+                    "open_issues": 230,
                     "owner": "WebAssembly",
                     "repo": "wabt",
-                    "stars": 8105
+                    "stars": 8105,
+                    "topics": [
+                      "webassembly"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1162,12 +1813,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "bddisasm is a fast, lightweight, x86/x64 instruction decoder.  The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to detect shellcode-like behavior.",
+                    "homepage": null,
                     "id": 278359094,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-29T10:16:07Z",
+                    "open_issues": 0,
                     "owner": "bitdefender",
                     "repo": "bddisasm",
-                    "stars": 1083
+                    "stars": 1083,
+                    "topics": [
+                      "decoder",
+                      "disassembler",
+                      "emulator",
+                      "instruction",
+                      "shellcode",
+                      "x64",
+                      "x86"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1178,12 +1842,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ViDi Visual Disassembler (experimental)",
+                    "homepage": "https://hshrzd.wordpress.com/vidi-visual-disassembler/",
                     "id": 72311064,
                     "language": "C++",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2025-10-08T04:51:43Z",
+                    "open_issues": 1,
                     "owner": "hasherezade",
                     "repo": "ViDi",
-                    "stars": 80
+                    "stars": 80,
+                    "topics": [
+                      "bearparser",
+                      "disassembler",
+                      "multiplatform",
+                      "pe-file"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1194,12 +1868,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Every .NET developer needs a .NET assembly browser. We do not need such tool for everyday usage. But we need to take a look at an unprotected compiled .NET assembly sometimes.",
+                    "homepage": null,
                     "id": 57991225,
                     "language": null,
+                    "license": null,
                     "last_commit": "2017-04-05T16:00:46Z",
+                    "open_issues": 0,
                     "owner": "Rustemsoft",
                     "repo": "Refractor-.NET-assembly-browser-and-decompiler",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1217,12 +1896,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dex to Java decompiler",
+                    "homepage": null,
                     "id": 8859474,
                     "language": "Java",
-                    "last_commit": "2026-08-19T18:52:12Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T18:02:10Z",
+                    "open_issues": 443,
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 50239
+                    "stars": 50251,
+                    "topics": [
+                      "android",
+                      "decompiler",
+                      "dex",
+                      "java"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1233,12 +1922,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ".NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!",
+                    "homepage": null,
                     "id": 1327739,
                     "language": "C#",
-                    "last_commit": "2026-08-27T21:15:37Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T19:15:37Z",
+                    "open_issues": 186,
                     "owner": "icsharpcode",
                     "repo": "ILSpy",
-                    "stars": 25966
+                    "stars": 25969,
+                    "topics": [
+                      "c-sharp",
+                      "decompile",
+                      "decompiler",
+                      "decompiler-engine",
+                      "dotnet",
+                      "dotnetcore",
+                      "ilspy",
+                      "mono",
+                      "pdb",
+                      "unity"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1249,12 +1954,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)",
+                    "homepage": "https://bytecodeviewer.com",
                     "id": 25201361,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-17T04:48:36Z",
+                    "open_issues": 103,
                     "owner": "Konloch",
                     "repo": "bytecode-viewer",
-                    "stars": 15616
+                    "stars": 15617,
+                    "topics": [
+                      "android",
+                      "apk",
+                      "baksmali",
+                      "bytecode",
+                      "bytecode-viewer",
+                      "cfr",
+                      "compiler",
+                      "decompiler",
+                      "dex2jar",
+                      "fernflower",
+                      "hacktoberfest",
+                      "java",
+                      "java-decompiler",
+                      "jsp",
+                      "krakatau",
+                      "procyon",
+                      "recompiler",
+                      "smali",
+                      "static-analysis",
+                      "war"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1265,12 +1996,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A standalone Java Decompiler GUI",
+                    "homepage": null,
                     "id": 32844456,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-07-08T18:45:59Z",
+                    "open_issues": 248,
                     "owner": "java-decompiler",
                     "repo": "jd-gui",
-                    "stars": 15180
+                    "stars": 15182,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1281,12 +2017,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JPEXS Free Flash Decompiler",
+                    "homepage": null,
                     "id": 19647328,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-08T06:55:35Z",
+                    "open_issues": 5,
                     "owner": "jindrapetrik",
                     "repo": "jpexs-decompiler",
-                    "stars": 5829
+                    "stars": 5831,
+                    "topics": [
+                      "decompiler",
+                      "editor",
+                      "flash",
+                      "swf"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1297,12 +2043,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Java bytecode editor",
+                    "homepage": null,
                     "id": 103982955,
                     "language": "Java",
+                    "license": "GPL-2.0",
                     "last_commit": "2021-04-26T17:12:46Z",
+                    "open_issues": 39,
                     "owner": "loerting",
                     "repo": "JByteMod-Beta",
-                    "stars": 858
+                    "stars": 858,
+                    "topics": [
+                      "bytecode",
+                      "editor",
+                      "engineering",
+                      "java",
+                      "jbytedit",
+                      "jbytemod",
+                      "kotlin",
+                      "reverse",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1320,12 +2081,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+                    "homepage": "https://imhex.werwolv.net/",
                     "id": 311683390,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-26T21:13:06Z",
+                    "open_issues": 394,
                     "owner": "WerWolv",
                     "repo": "ImHex",
-                    "stars": 54587
+                    "stars": 54593,
+                    "topics": [
+                      "analyzer",
+                      "binary-analysis",
+                      "c-plus-plus",
+                      "cpp",
+                      "cybersecurity",
+                      "dark-mode",
+                      "dear-imgui",
+                      "disassembler",
+                      "forensics",
+                      "hacking",
+                      "hacktoberfest",
+                      "hex-editor",
+                      "ips",
+                      "linux",
+                      "macos",
+                      "multi-platform",
+                      "pattern-language",
+                      "reverse-engineering",
+                      "static-analysis",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1350,12 +2137,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Main repo for hosting release binaries",
+                    "homepage": "https://frida.re",
                     "id": 9405122,
                     "language": "Meson",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-27T16:26:32Z",
+                    "open_issues": 1959,
                     "owner": "frida",
                     "repo": "frida",
-                    "stars": 21768
+                    "stars": 21783,
+                    "topics": [
+                      "frida",
+                      "instrumentation",
+                      "vala"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1366,12 +2162,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cheat Engine. A development environment focused on modding",
+                    "homepage": "http://cheatengine.org",
                     "id": 34163206,
                     "language": "Pascal",
+                    "license": null,
                     "last_commit": "2025-04-19T06:31:10Z",
+                    "open_issues": 1307,
                     "owner": "cheat-engine",
                     "repo": "cheat-engine",
-                    "stars": 19061
+                    "stars": 19069,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1382,12 +2183,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "More than a ReClass port to the .NET platform.",
+                    "homepage": null,
                     "id": 70486261,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2024-05-10T06:24:23Z",
+                    "open_issues": 84,
                     "owner": "ReClassNET",
                     "repo": "ReClass.NET",
-                    "stars": 2189
+                    "stars": 2191,
+                    "topics": [
+                      "class",
+                      "debugger",
+                      "hacktoberfest",
+                      "memory-analysis",
+                      "memory-hacking",
+                      "memory-scanner",
+                      "memory-viewer",
+                      "rebuild",
+                      "reclass",
+                      "remote",
+                      "structure"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1398,12 +2216,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ELF file viewer/editor for Windows, Linux and MacOS.",
+                    "homepage": "http://ntinfo.biz",
                     "id": 214508471,
                     "language": "C++",
-                    "last_commit": "2026-08-24T17:09:23Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T18:26:47Z",
+                    "open_issues": 8,
                     "owner": "horsicq",
                     "repo": "XELFViewer",
-                    "stars": 1584
+                    "stars": 1584,
+                    "topics": [
+                      "elf",
+                      "elf-binaries",
+                      "elf-format",
+                      "elf-parser",
+                      "elf64",
+                      "hacktoberfest",
+                      "hacktoberfest2023",
+                      "linux-system-programming",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1414,12 +2247,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Imports Reconstructor",
+                    "homepage": null,
                     "id": 2380532,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-04-05T14:57:59Z",
+                    "open_issues": 23,
                     "owner": "NtQuery",
                     "repo": "Scylla",
-                    "stars": 1418
+                    "stars": 1418,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1430,12 +2268,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PE file viewer/editor for Windows, Linux and MacOS.",
+                    "homepage": "http://ntinfo.biz",
                     "id": 213965467,
                     "language": "QMake",
-                    "last_commit": "2026-08-28T06:05:45Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T18:58:54Z",
+                    "open_issues": 5,
                     "owner": "horsicq",
                     "repo": "XPEViewer",
-                    "stars": 1230
+                    "stars": 1230,
+                    "topics": [
+                      "disassembler",
+                      "hacktoberfest",
+                      "hacktoberfest2023",
+                      "pe",
+                      "pe-format",
+                      "portable-executable",
+                      "reverse-engineering",
+                      "windows-system"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1446,12 +2298,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PE Tools - Portable executable (PE) manipulation toolkit",
+                    "homepage": "https://petoolse.github.io/petools",
                     "id": 102133147,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2025-10-21T10:10:41Z",
+                    "open_issues": 10,
                     "owner": "petoolse",
                     "repo": "petools",
-                    "stars": 1197
+                    "stars": 1197,
+                    "topics": [
+                      "analysis",
+                      "disassembler",
+                      "dumper",
+                      "entropy",
+                      "hex-editor",
+                      "pefile",
+                      "rebuilder",
+                      "resources"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1462,12 +2328,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Utility for comparing and merging files and directories",
+                    "homepage": "https://invent.kde.org/sdk/kdiff3",
                     "id": 121531680,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-27T04:58:49Z",
+                    "open_issues": 0,
                     "owner": "KDE",
                     "repo": "kdiff3",
-                    "stars": 611
+                    "stars": 611,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1485,12 +2356,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EasyHook - The reinvention of Windows API Hooking",
+                    "homepage": "https://easyhook.github.io",
                     "id": 40424622,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2024-01-25T14:38:36Z",
+                    "open_issues": 186,
                     "owner": "EasyHook",
                     "repo": "EasyHook",
-                    "stars": 3292
+                    "stars": 3294,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1501,12 +2377,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Windows dll injector",
+                    "homepage": null,
                     "id": 15438799,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2021-05-17T19:13:29Z",
+                    "open_issues": 51,
                     "owner": "DarthTon",
                     "repo": "Xenos",
-                    "stars": 2645
+                    "stars": 2645,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1517,12 +2398,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Robber is open source tool for finding executables prone to DLL hijacking",
+                    "homepage": "https://mojtabatajik.github.io/Robber/",
                     "id": 46263858,
                     "language": "Pascal",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-08T09:17:14Z",
+                    "open_issues": 0,
                     "owner": "MojtabaTajik",
                     "repo": "Robber",
-                    "stars": 799
+                    "stars": 799,
+                    "topics": [
+                      "candidate-dlls",
+                      "delphi",
+                      "dll-hijacking",
+                      "dlls",
+                      "security",
+                      "vulnerability-scanners"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1540,12 +2433,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ExifTool meta information reader/writer",
+                    "homepage": "https://exiftool.org/",
                     "id": 132751855,
                     "language": "Perl",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-27T16:45:01Z",
+                    "open_issues": 40,
                     "owner": "exiftool",
                     "repo": "exiftool",
-                    "stars": 4988
+                    "stars": 4991,
+                    "topics": [
+                      "api",
+                      "cli",
+                      "exif",
+                      "image-metadata",
+                      "iptc",
+                      "metadata",
+                      "perl",
+                      "xmp"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1556,12 +2463,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "File and Archive Manager",
+                    "homepage": "https://farmanager.com",
                     "id": 107807404,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-28T02:09:59Z",
+                    "open_issues": 155,
                     "owner": "FarGroup",
                     "repo": "FarManager",
-                    "stars": 2214
+                    "stars": 2215,
+                    "topics": [
+                      "7-zip",
+                      "c",
+                      "c-plus-plus",
+                      "colorer",
+                      "command-line",
+                      "cpp",
+                      "editor",
+                      "far-manager",
+                      "farmanager",
+                      "file-handling",
+                      "file-management",
+                      "file-manager",
+                      "filemanager",
+                      "ftp-client",
+                      "lua",
+                      "ofm",
+                      "plugins",
+                      "shell",
+                      "windows",
+                      "winscp"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1572,12 +2505,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 13912866,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-02-20T21:20:11Z",
+                    "open_issues": 4,
                     "owner": "StegHigh",
                     "repo": "steghide",
-                    "stars": 772
+                    "stars": 773,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1588,12 +2526,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PDF Metadata Editor is a simple tool you can use to edit the metadata (Author, Keywors, etc.) of a PDF document.",
+                    "homepage": "https://pdf.metadata.care/",
                     "id": 3477786,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-09T08:26:17Z",
+                    "open_issues": 5,
                     "owner": "zaro",
                     "repo": "pdf-metadata-editor",
-                    "stars": 226
+                    "stars": 226,
+                    "topics": [
+                      "metadata",
+                      "pdf",
+                      "xmp"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1604,12 +2551,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DMcsvEditor is simple CSV/Tab file editor for Windows and Linux.",
+                    "homepage": null,
                     "id": 66707246,
                     "language": "Pascal",
+                    "license": null,
                     "last_commit": "2018-03-26T16:30:57Z",
+                    "open_issues": 0,
                     "owner": "darhmedia",
                     "repo": "DMcsvEditor",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1627,12 +2579,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WinSCP is a popular free file manager for Windows supporting SFTP, FTP, FTPS, SCP, S3, WebDAV and local-to-local file transfers. A powerful tool to enhance your productivity with a user-friendly interface and automation options like .NET assembly.",
+                    "homepage": "https://winscp.net",
                     "id": 61737765,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-27T06:20:53Z",
+                    "open_issues": 1,
                     "owner": "winscp",
                     "repo": "winscp",
-                    "stars": 3794
+                    "stars": 3797,
+                    "topics": [
+                      "ftp",
+                      "ftp-client",
+                      "ftps",
+                      "s3",
+                      "scp",
+                      "sftp",
+                      "ssh",
+                      "webdav",
+                      "windows",
+                      "winscp"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1657,12 +2625,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "open-source binary diff, delta/differential compression tools, VCDIFF/RFC 3284 delta compression",
+                    "homepage": null,
                     "id": 32775606,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-06-21T21:49:13Z",
+                    "open_issues": 108,
                     "owner": "jmacd",
                     "repo": "xdelta",
-                    "stars": 1338
+                    "stars": 1338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1680,12 +2653,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Fasttracker II compatible music editor",
+                    "homepage": "https://milkytracker.org",
                     "id": 13717004,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-06-22T13:14:21Z",
+                    "open_issues": 86,
                     "owner": "milkytracker",
                     "repo": "MilkyTracker",
-                    "stars": 2091
+                    "stars": 2092,
+                    "topics": [
+                      "audio",
+                      "chiptune-tracker",
+                      "multiplatform",
+                      "music",
+                      "tracker-music"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1696,12 +2680,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official read-only git mirror of the OpenMPT and libopenmpt subversion repository at https://source.openmpt.org/. This repository may occasionally get rebased without further notice when subversion revision properties (commit message) get fixed in recent history after the fact. Be sure to rebase often in case you clone or fork it.",
+                    "homepage": "https://openmpt.org/",
                     "id": 82913630,
                     "language": "C++",
-                    "last_commit": "2026-08-27T19:13:34Z",
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2026-08-28T20:08:28Z",
+                    "open_issues": 3,
                     "owner": "OpenMPT",
                     "repo": "openmpt",
-                    "stars": 770
+                    "stars": 770,
+                    "topics": [
+                      "audio",
+                      "demoscene",
+                      "fasttracker",
+                      "future-composer",
+                      "impulsetracker",
+                      "libopenmpt",
+                      "music",
+                      "music-creation",
+                      "protracker",
+                      "screamtracker",
+                      "tracker"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1712,12 +2713,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ProTracker 2 clone for Windows/macOS/Linux",
+                    "homepage": "https://16-bits.org",
                     "id": 225353154,
                     "language": "C",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-21T18:55:09Z",
+                    "open_issues": 7,
                     "owner": "8bitbubsy",
                     "repo": "pt2-clone",
-                    "stars": 660
+                    "stars": 660,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1742,12 +2748,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A cross-platform x86 assembler with an Intel-like syntax",
+                    "homepage": "https://www.nasm.us/",
                     "id": 130599566,
                     "language": "Assembly",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-19T23:47:10Z",
+                    "open_issues": 65,
                     "owner": "netwide-assembler",
                     "repo": "nasm",
-                    "stars": 3290
+                    "stars": 3294,
+                    "topics": [
+                      "assembler",
+                      "assembler-x86",
+                      "assemblers",
+                      "nasm",
+                      "nasm-assembler",
+                      "nasm-language",
+                      "x86"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1765,12 +2784,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide",
+                    "homepage": null,
                     "id": 50483854,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-06-04T22:02:14Z",
+                    "open_issues": 52,
                     "owner": "x64dbg",
                     "repo": "ScyllaHide",
-                    "stars": 4271
+                    "stars": 4270,
+                    "topics": [
+                      "anti-debug",
+                      "anti-debugging",
+                      "debug",
+                      "debugger",
+                      "debugging",
+                      "hacktoberfest",
+                      "ollydbg",
+                      "x64dbg",
+                      "x64dbg-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1788,12 +2822,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open-source, free protector for .NET applications",
+                    "homepage": "https://mkaring.github.io/ConfuserEx/",
                     "id": 140476604,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2024-06-07T08:59:08Z",
+                    "open_issues": 103,
                     "owner": "mkaring",
                     "repo": "ConfuserEx",
-                    "stars": 2899
+                    "stars": 2899,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1811,12 +2850,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ProGuard, Java optimizer and obfuscator",
+                    "homepage": "https://www.guardsquare.com/en/products/proguard",
                     "id": 178034763,
                     "language": "Java",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-24T13:48:45Z",
+                    "open_issues": 176,
                     "owner": "Guardsquare",
                     "repo": "proguard",
-                    "stars": 3639
+                    "stars": 3640,
+                    "topics": [
+                      "android",
+                      "build-tool",
+                      "java",
+                      "obfuscator",
+                      "optimiser",
+                      "proguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1827,12 +2878,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Crypter, binder & downloader with native & .NET stub, evasive by design, user friendly UI",
+                    "homepage": "https://bytecode77.com/pe-union",
                     "id": 115468394,
                     "language": "Assembly",
+                    "license": "MIT",
                     "last_commit": "2025-06-28T10:36:18Z",
+                    "open_issues": 2,
                     "owner": "bytecode77",
                     "repo": "pe-union",
-                    "stars": 737
+                    "stars": 737,
+                    "topics": [
+                      "av-evasion",
+                      "binder",
+                      "crypter",
+                      "downloader",
+                      "obfuscation"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1850,12 +2912,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "UPX - the Ultimate Packer for eXecutables",
+                    "homepage": "https://upx.github.io",
                     "id": 67031040,
                     "language": "C++",
-                    "last_commit": "2026-08-27T14:51:22Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T19:37:00Z",
+                    "open_issues": 24,
                     "owner": "upx",
                     "repo": "upx",
-                    "stars": 17817
+                    "stars": 17823,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1873,12 +2940,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Flash OS images to SD cards & USB drives, safely and easily.",
+                    "homepage": "https://etcher.io/",
                     "id": 45055693,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-02T09:25:23Z",
+                    "open_issues": 688,
                     "owner": "balena-io",
                     "repo": "etcher",
-                    "stars": 34243
+                    "stars": 34255,
+                    "topics": [
+                      "cross-platform",
+                      "etcher",
+                      "sd-cards",
+                      "usb-drives"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1889,12 +2966,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Extract one time password (OTP) secrets from QR codes exported by two-factor authentication (2FA) apps such as \"Google Authenticator\". The exported QR codes from authentication apps can be captured by camera, read from images, or read from text files. The secrets can be exported to JSON or CSV, or printed as QR codes to console.",
+                    "homepage": "https://scito.ch/content/extract-secret-keys-google-authenticator-qr-export",
                     "id": 266280291,
                     "language": "Python",
-                    "last_commit": "2026-08-27T15:53:57Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-28T15:53:41Z",
+                    "open_issues": 5,
                     "owner": "scito",
                     "repo": "extract_otp_secrets",
-                    "stars": 1648
+                    "stars": 1648,
+                    "topics": [
+                      "2fa",
+                      "csv",
+                      "google-authenticator",
+                      "json",
+                      "mfa",
+                      "otp",
+                      "otpauth",
+                      "proto3",
+                      "protobuf",
+                      "python",
+                      "qr-codes",
+                      "qrcode",
+                      "recovery",
+                      "security",
+                      "security-tools",
+                      "standwithukraine",
+                      "tfa",
+                      "totp",
+                      "two-factor",
+                      "two-factor-authentication"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -1912,12 +3015,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A tool for reverse engineering Android apk files",
+                    "homepage": "https://apktool.org",
                     "id": 3766706,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T10:30:33Z",
+                    "open_issues": 81,
                     "owner": "iBotPeaches",
                     "repo": "Apktool",
-                    "stars": 25399
+                    "stars": 25403,
+                    "topics": [
+                      "9patch",
+                      "android",
+                      "apk",
+                      "apktool",
+                      "arsc",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1928,12 +3043,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Powerful yet easy to use APK editor for PC and Mac.",
+                    "homepage": "https://qwertycube.com/apk-editor-studio/",
                     "id": 144447158,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-01-19T09:48:35Z",
+                    "open_issues": 55,
                     "owner": "kefir500",
                     "repo": "apk-editor-studio",
-                    "stars": 1645
+                    "stars": 1645,
+                    "topics": [
+                      "apk-decompiler",
+                      "apk-editor",
+                      "apktool",
+                      "qt"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1944,12 +3069,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cross-platform tool for downloading Samsung mobile device firmware.",
+                    "homepage": null,
                     "id": 342079605,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T13:55:36Z",
+                    "open_issues": 5,
                     "owner": "zacharee",
                     "repo": "Bifrost",
-                    "stars": 1565
+                    "stars": 1565,
+                    "topics": [
+                      "compose-multiplatform",
+                      "kotlin",
+                      "kotlin-multiplatform",
+                      "samsung"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1960,12 +3095,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 175378548,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-05-22T05:18:38Z",
+                    "open_issues": 0,
                     "owner": "SlackingVeteran",
                     "repo": "frija",
-                    "stars": 738
+                    "stars": 739,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1976,12 +3116,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "APK/DEX detector for Windows, Linux and MacOS.",
+                    "homepage": "http://ntinfo.biz/",
                     "id": 277055977,
                     "language": "C++",
-                    "last_commit": "2026-08-25T18:59:59Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T18:54:05Z",
+                    "open_issues": 1,
                     "owner": "horsicq",
                     "repo": "XAPKDetector",
-                    "stars": 693
+                    "stars": 693,
+                    "topics": [
+                      "android",
+                      "apk",
+                      "apk-parser",
+                      "apktools",
+                      "hacktoberfest",
+                      "hacktoberfest2023",
+                      "malware-analysis",
+                      "malware-detection",
+                      "malware-research",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -1992,12 +3148,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Main body of the script",
+                    "homepage": "http://apkmultitool.com",
                     "id": 2695572,
                     "language": "Batchfile",
+                    "license": null,
                     "last_commit": "2016-09-18T20:58:42Z",
+                    "open_issues": 5,
                     "owner": "APK-Multi-Tool",
                     "repo": "APK-Multi-Tool",
-                    "stars": 243
+                    "stars": 243,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -2015,12 +3176,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Just enough Linux for checkra1n.",
+                    "homepage": null,
                     "id": 238575283,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-11-04T18:39:27Z",
+                    "open_issues": 108,
                     "owner": "foxlet",
                     "repo": "bootra1n",
-                    "stars": 738
+                    "stars": 738,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2031,12 +3197,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Light (~50MB) images for jailbreaking iOS devices",
+                    "homepage": null,
                     "id": 300096745,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2023-01-11T23:55:23Z",
+                    "open_issues": 1,
                     "owner": "asineth0",
                     "repo": "checkn1x",
-                    "stars": 626
+                    "stars": 626,
+                    "topics": [
+                      "apple",
+                      "checkra1n",
+                      "ios",
+                      "iso",
+                      "jailbreak",
+                      "linux"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -2054,12 +3232,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.",
+                    "homepage": null,
                     "id": 64753043,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2022-12-08T15:37:37Z",
+                    "open_issues": 182,
                     "owner": "Perfare",
                     "repo": "AssetStudio",
-                    "stars": 15602
+                    "stars": 15602,
+                    "topics": [
+                      "unity",
+                      "unity3d"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2070,12 +3256,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Asset Bundle Extractor. No longer supported. Consider using https://github.com/nesrak1/UABEA",
+                    "homepage": null,
                     "id": 42009172,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2023-12-31T04:40:19Z",
+                    "open_issues": 217,
                     "owner": "SeriousCache",
                     "repo": "UABE",
-                    "stars": 4142
+                    "stars": 4142,
+                    "topics": [
+                      "unity",
+                      "unity3d"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2086,12 +3280,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GUI and API library to work with Engine assets, serialized and bundle files",
+                    "homepage": null,
                     "id": 121145608,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2022-01-14T21:53:29Z",
+                    "open_issues": 892,
                     "owner": "mafaca",
                     "repo": "UtinyRipper",
-                    "stars": 3093
+                    "stars": 3094,
+                    "topics": [
+                      "asset",
+                      "assetbundle",
+                      "bundle",
+                      "debug",
+                      "extract",
+                      "project",
+                      "resource",
+                      "ripper",
+                      "source",
+                      "unity",
+                      "unity3d",
+                      "unpack",
+                      "viewer"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2102,12 +3315,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Free/Open source game file resource explorer/unpacking tool made easy! ",
+                    "homepage": "https://www.elberethzone.net/dragon-unpacker.html",
                     "id": 49774582,
                     "language": "Pascal",
+                    "license": null,
                     "last_commit": "2024-06-05T19:34:46Z",
+                    "open_issues": 120,
                     "owner": "elbereth",
                     "repo": "DragonUnPACKer",
-                    "stars": 255
+                    "stars": 255,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -2125,12 +3343,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🍂 Multipurpose homebrew tool for Nintendo Switch",
+                    "homepage": null,
                     "id": 139088736,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-20T17:55:26Z",
+                    "open_issues": 90,
                     "owner": "XorTroll",
                     "repo": "Goldleaf",
-                    "stars": 3029
+                    "stars": 3029,
+                    "topics": [
+                      "hacktoberfest",
+                      "homebrew",
+                      "libnx",
+                      "nintendo",
+                      "nintendo-switch",
+                      "nsp",
+                      "nx",
+                      "switch",
+                      "title",
+                      "tool"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2141,12 +3375,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Author is duckbill ",
+                    "homepage": null,
                     "id": 305369415,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-07-17T11:40:16Z",
+                    "open_issues": 73,
                     "owner": "rashevskyv",
                     "repo": "dbi",
-                    "stars": 2927
+                    "stars": 2929,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2157,12 +3396,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Awoo Installer and GoldLeaf uploader of the NSPs (and other files), RCM payload injector, application for split/merge files.",
+                    "homepage": null,
                     "id": 169933891,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-27T23:02:20Z",
+                    "open_issues": 50,
                     "owner": "developersu",
                     "repo": "ns-usbloader",
-                    "stars": 2320
+                    "stars": 2320,
+                    "topics": [
+                      "gui",
+                      "ns",
+                      "nsp",
+                      "tinfoil",
+                      "usb"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2173,12 +3423,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch)",
+                    "homepage": null,
                     "id": 132961386,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2021-11-30T21:10:25Z",
+                    "open_issues": 24,
                     "owner": "eliboa",
                     "repo": "TegraRcmGUI",
-                    "stars": 2294
+                    "stars": 2294,
+                    "topics": [
+                      "exploit",
+                      "gui",
+                      "hack",
+                      "nintendo-switch",
+                      "payload",
+                      "switch",
+                      "tegrarcm"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2189,12 +3452,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Enjoy games with your friends as if you were on a LAN.",
+                    "homepage": null,
                     "id": 113214875,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-03-21T04:12:05Z",
+                    "open_issues": 62,
                     "owner": "spacemeowx2",
                     "repo": "switch-lan-play",
-                    "stars": 2013
+                    "stars": 2013,
+                    "topics": [
+                      "lan-play",
+                      "libpcap",
+                      "nintendoswitch",
+                      "switch"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2205,12 +3478,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Stream switch games to your PC via USB or network",
+                    "homepage": null,
                     "id": 213233840,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-07-16T21:42:56Z",
+                    "open_issues": 13,
                     "owner": "exelix11",
                     "repo": "SysDVR",
-                    "stars": 2011
+                    "stars": 2012,
+                    "topics": [
+                      "homebrew",
+                      "nintendo-switch",
+                      "nx",
+                      "rtsp",
+                      "rtsp-server",
+                      "switch",
+                      "video-recording"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2221,12 +3507,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Homebrew App Store - GUI for downloading/managing homebrew apps",
+                    "homepage": "https://hb-app.store",
                     "id": 123695736,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-08T22:48:54Z",
+                    "open_issues": 26,
                     "owner": "fortheusers",
                     "repo": "hb-appstore",
-                    "stars": 1446
+                    "stars": 1446,
+                    "topics": [
+                      "gui",
+                      "homebrew",
+                      "nintendo-switch",
+                      "package-manager",
+                      "wiiu-homebrew"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2237,12 +3534,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generates XCI/NSP/HFS0/ExeFS/RomFS/Certificate/Ticket dumps from Nintendo Switch gamecards and installed SD/eMMC titles.",
+                    "homepage": null,
                     "id": 138127034,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-04T00:04:03Z",
+                    "open_issues": 19,
                     "owner": "DarkMatterCore",
                     "repo": "nxdumptool",
-                    "stars": 1282
+                    "stars": 1282,
+                    "topics": [
+                      "dump",
+                      "emmc",
+                      "gamecard",
+                      "homebrew",
+                      "libnx",
+                      "nca",
+                      "nintendo",
+                      "nintendo-switch",
+                      "nsp",
+                      "nsw",
+                      "sdmmc",
+                      "tik",
+                      "xci"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2253,12 +3569,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 142528392,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-01-19T21:09:20Z",
+                    "open_issues": 76,
                     "owner": "blawar",
                     "repo": "nut",
-                    "stars": 1266
+                    "stars": 1266,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2269,12 +3590,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Create custom themes for the nintendo switch ! ",
+                    "homepage": null,
                     "id": 150124830,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-27T09:39:30Z",
+                    "open_issues": 25,
                     "owner": "exelix11",
                     "repo": "SwitchThemeInjector",
-                    "stars": 1235
+                    "stars": 1235,
+                    "topics": [
+                      "customization",
+                      "homebrew",
+                      "nintendo-switch",
+                      "nx",
+                      "nxtheme",
+                      "switch"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2285,12 +3618,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Joy-Con Toolkit",
+                    "homepage": null,
                     "id": 99829911,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2024-05-07T03:23:55Z",
+                    "open_issues": 77,
                     "owner": "CTCaer",
                     "repo": "jc_toolkit",
-                    "stars": 1101
+                    "stars": 1101,
+                    "topics": [
+                      "joy-con",
+                      "net471",
+                      "nxpad"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2301,12 +3643,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nintendo Switch NAND management tool : explore, backup, restore, mount, resize,  create emunand, etc. (Windows)",
+                    "homepage": null,
                     "id": 169323643,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-06-17T01:41:06Z",
+                    "open_issues": 50,
                     "owner": "eliboa",
                     "repo": "NxNandManager",
-                    "stars": 971
+                    "stars": 971,
+                    "topics": [
+                      "emunand",
+                      "nintendo-switch",
+                      "switch-nand"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2317,12 +3668,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A feature-rich tool for installing NSPs!",
+                    "homepage": null,
                     "id": 165826191,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-08-21T22:06:59Z",
+                    "open_issues": 3,
                     "owner": "fourminute",
                     "repo": "Fluffy",
-                    "stars": 269
+                    "stars": 269,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2333,12 +3689,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A layout editor for the Nintendo Switch",
+                    "homepage": null,
                     "id": 162474532,
                     "language": "C#",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-05T09:26:43Z",
+                    "open_issues": 16,
                     "owner": "FuryBaguette",
                     "repo": "SwitchLayoutEditor",
-                    "stars": 215
+                    "stars": 215,
+                    "topics": [
+                      "bflyt-editor",
+                      "bflyt-files",
+                      "nintendo-switch"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2349,12 +3714,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A comprehensive GUI tool for Nintendo Switch NAND repair, designed to simplify complex recovery processes into a user-friendly, step-by-step interface.",
+                    "homepage": null,
                     "id": 1057181207,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-23T07:05:41Z",
+                    "open_issues": 2,
                     "owner": "sthetix",
                     "repo": "NANDFixPro",
-                    "stars": 118
+                    "stars": 118,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2365,12 +3735,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A general editor for editing first-party Nintendo formats. Primary aimed at support for Tears of the Kingdom files and more modern Nintendo Switch files.",
+                    "homepage": null,
                     "id": 601421384,
                     "language": "C#",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-05-09T17:24:45Z",
+                    "open_issues": 9,
                     "owner": "NX-Editor",
                     "repo": "NxEditor",
-                    "stars": 100
+                    "stars": 100,
+                    "topics": [
+                      "totk",
+                      "zeldamods"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2381,12 +3759,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Copy Emunand (switch) from and to SD hidden partition",
+                    "homepage": null,
                     "id": 258483708,
                     "language": "Visual Basic 6.0",
+                    "license": null,
                     "last_commit": "2024-02-02T11:22:27Z",
+                    "open_issues": 2,
                     "owner": "TheyKilledKenny",
                     "repo": "Emutool",
-                    "stars": 91
+                    "stars": 91,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2397,12 +3780,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Nintendo Switch Boot Logo Converter For CFW Hekate/Atmosphere",
+                    "homepage": null,
                     "id": 172387395,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2019-06-08T11:17:54Z",
+                    "open_issues": 1,
                     "owner": "KranKRival",
                     "repo": "EX-BootLogo-Nintendo-Switch-Bootlogo-Converter",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2413,12 +3801,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An application that makes it easier to create Nintendo Switch Layouts.",
+                    "homepage": "https://themezernx.github.io/LayoutDocs/",
                     "id": 351193375,
                     "language": "Vue",
+                    "license": null,
                     "last_commit": "2026-05-21T22:40:18Z",
+                    "open_issues": 3,
                     "owner": "ThemezerNX",
                     "repo": "LayoutKit",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -2436,12 +3829,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Digital logic design tool and simulator",
+                    "homepage": null,
                     "id": 24217298,
                     "language": "Java",
-                    "last_commit": "2026-08-27T05:16:25Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-28T13:11:15Z",
+                    "open_issues": 125,
                     "owner": "logisim-evolution",
                     "repo": "logisim-evolution",
-                    "stars": 7494
+                    "stars": 7496,
+                    "topics": [
+                      "circuit",
+                      "circuits",
+                      "digital-circuit",
+                      "digital-circuits",
+                      "digital-logic",
+                      "digital-logic-design",
+                      "education",
+                      "fpga",
+                      "logic",
+                      "logisim",
+                      "logisim-evolution",
+                      "simulator",
+                      "timing-diagram",
+                      "verilog",
+                      "vhdl"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2452,12 +3866,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Arduino command line tool",
+                    "homepage": "https://arduino.github.io/arduino-cli/latest/",
                     "id": 144036833,
                     "language": "Go",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-27T15:15:16Z",
+                    "open_issues": 258,
                     "owner": "arduino",
                     "repo": "arduino-cli",
-                    "stars": 5000
+                    "stars": 5000,
+                    "topics": [
+                      "arduino",
+                      "cli",
+                      "command-line",
+                      "golang",
+                      "tooling-team"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2468,12 +3893,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fritzing desktop application",
+                    "homepage": "http://fritzing.org",
                     "id": 23322663,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-12T09:15:32Z",
+                    "open_issues": 495,
                     "owner": "fritzing",
                     "repo": "fritzing-app",
-                    "stars": 4788
+                    "stars": 4789,
+                    "topics": [
+                      "fritzing-application"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2484,12 +3916,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PICSimLab - Programmable IC Simulator Laboratory",
+                    "homepage": null,
                     "id": 46007155,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-22T17:22:00Z",
+                    "open_issues": 9,
                     "owner": "lcgamboa",
                     "repo": "picsimlab",
-                    "stars": 662
+                    "stars": 662,
+                    "topics": [
+                      "arduino",
+                      "avr",
+                      "education",
+                      "emulator",
+                      "esp32",
+                      "esp32c3",
+                      "microcontoller",
+                      "pic16",
+                      "pic18",
+                      "simulator",
+                      "stm32"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2500,12 +3949,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SimulIDE is a simple real-time electronic circuit simulator",
+                    "homepage": null,
                     "id": 258230050,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-11-04T11:51:01Z",
+                    "open_issues": 22,
                     "owner": "SimulIDE",
                     "repo": "SimulIDE",
-                    "stars": 303
+                    "stars": 303,
+                    "topics": [
+                      "arduino",
+                      "hacktoberfest",
+                      "simulide"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -2523,12 +3981,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Swiss Army knife for developers.",
+                    "homepage": "https://devtoys.app/",
                     "id": 411493648,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-02-25T11:53:38Z",
+                    "open_issues": 339,
                     "owner": "DevToys-app",
                     "repo": "DevToys",
-                    "stars": 31900
+                    "stars": 31903,
+                    "topics": [
+                      "blazor",
+                      "cross-platform",
+                      "csharp",
+                      "desktop",
+                      "desktop-app",
+                      "desktop-application",
+                      "developer-tools",
+                      "extensible",
+                      "fluent",
+                      "fluent-design",
+                      "linux",
+                      "macos",
+                      "mica",
+                      "syntax-highlighting",
+                      "typescript",
+                      "windows",
+                      "windows-10",
+                      "windows-11",
+                      "winui"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2539,12 +4022,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lovely console emulator package for Windows",
+                    "homepage": "https://cmder.app",
                     "id": 11276147,
                     "language": "PowerShell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T15:53:50Z",
+                    "open_issues": 67,
                     "owner": "cmderdev",
                     "repo": "cmder",
-                    "stars": 26997
+                    "stars": 27000,
+                    "topics": [
+                      "c-plus-plus",
+                      "cmder",
+                      "color-scheme",
+                      "command-line",
+                      "conemu",
+                      "mintty",
+                      "portable",
+                      "powershell",
+                      "shell",
+                      "ssh-agent",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2555,12 +4055,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fast, portable, simple, and free C/C++ IDE",
+                    "homepage": "https://www.embarcadero.com/free-tools/dev-cpp",
                     "id": 274715288,
                     "language": "Pascal",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-06-17T14:34:17Z",
+                    "open_issues": 212,
                     "owner": "Embarcadero",
                     "repo": "Dev-Cpp",
-                    "stars": 2989
+                    "stars": 2991,
+                    "topics": [
+                      "cpp",
+                      "delphi",
+                      "dev-cpp",
+                      "editor",
+                      "gcc",
+                      "ide",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2571,12 +4084,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pyscripter is a feature-rich but lightweight Python IDE",
+                    "homepage": null,
                     "id": 41313736,
                     "language": "Pascal",
+                    "license": "MIT",
                     "last_commit": "2025-11-24T20:01:29Z",
+                    "open_issues": 50,
                     "owner": "lmbelo",
                     "repo": "pyscripter",
-                    "stars": 1249
+                    "stars": 1249,
+                    "topics": [
+                      "debugger",
+                      "editor",
+                      "ide",
+                      "llm",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -2594,12 +4118,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sandboxie Plus & Classic",
+                    "homepage": "https://Sandboxie-Plus.com",
                     "id": 254327261,
                     "language": "C",
-                    "last_commit": "2026-08-25T01:31:44Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-29T01:13:14Z",
+                    "open_issues": 750,
                     "owner": "sandboxie-plus",
                     "repo": "Sandboxie",
-                    "stars": 19273
+                    "stars": 19280,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2610,12 +4139,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mirror of CMake upstream repository",
+                    "homepage": "https://gitlab.kitware.com/cmake/cmake",
                     "id": 537699,
                     "language": "C",
-                    "last_commit": "2026-08-28T04:13:02Z",
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2026-08-28T13:53:02Z",
+                    "open_issues": 2,
                     "owner": "Kitware",
                     "repo": "CMake",
-                    "stars": 8047
+                    "stars": 8048,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2626,12 +4160,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nmap Project's Windows packet capture and transmission library",
+                    "homepage": "https://npcap.com",
                     "id": 35855357,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-28T16:23:18Z",
+                    "open_issues": 242,
                     "owner": "nmap",
                     "repo": "npcap",
-                    "stars": 3581
+                    "stars": 3582,
+                    "topics": [
+                      "packet-capture",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 },
@@ -2642,12 +4184,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nmap Project's Windows packet capture and transmission library",
+                    "homepage": "https://npcap.com",
                     "id": 35855357,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-28T16:23:18Z",
+                    "open_issues": 242,
                     "owner": "nmap",
                     "repo": "npcap",
-                    "stars": 3581
+                    "stars": 3582,
+                    "topics": [
+                      "packet-capture",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
                 }
@@ -2666,15 +4216,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:56:55.191Z",
+    "last_updated": "2026-08-29T04:11:46.701Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Windows-based AI-powered Reverse Engineering Toolkit \"AIO\", Built for Security (Malware analysis, Pentesting) & Educational purposes.",
+      "homepage": "https://jakiboy.github.io/ReVens/",
       "id": 622217911,
       "language": "JavaScript",
+      "license": "MIT",
       "last_commit": "2026-05-23T04:49:43Z",
+      "open_issues": 0,
       "owner": "Jakiboy",
       "repo": "ReVens",
-      "stars": 352
+      "stars": 353,
+      "topics": [
+        "awesome-list",
+        "awesome-lists",
+        "malware-analysis",
+        "penetration-testing",
+        "reverse-engineering",
+        "security"
+      ]
     },
     "original_repository_sha": "272d3fd82a41b3bb1d42bd3073dca7c7fef677a2",
     "enhanced_repository": "enhansome/enhansome-ReVens",
