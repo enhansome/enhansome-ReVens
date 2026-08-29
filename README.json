@@ -884,7 +884,7 @@
                     "open_issues": 1,
                     "owner": "hasherezade",
                     "repo": "mal_unpack",
-                    "stars": 836,
+                    "stars": 837,
                     "topics": [
                       "libpeconv",
                       "malware-analysis",
@@ -1171,7 +1171,7 @@
                     "open_issues": 553,
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 35688,
+                    "stars": 35689,
                     "topics": [
                       "compression",
                       "data-analysis",
@@ -1663,7 +1663,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-29T01:30:06Z",
-                    "open_issues": 824,
+                    "open_issues": 825,
                     "owner": "radareorg",
                     "repo": "radare2",
                     "stars": 24674,
@@ -1732,7 +1732,7 @@
                     "open_issues": 1921,
                     "owner": "NationalSecurityAgency",
                     "repo": "ghidra",
-                    "stars": 73381,
+                    "stars": 73391,
                     "topics": [
                       "disassembler",
                       "reverse-engineering",
@@ -1931,7 +1931,7 @@
                     "open_issues": 186,
                     "owner": "icsharpcode",
                     "repo": "ILSpy",
-                    "stars": 25969,
+                    "stars": 25970,
                     "topics": [
                       "c-sharp",
                       "decompile",
@@ -2442,7 +2442,7 @@
                     "open_issues": 40,
                     "owner": "exiftool",
                     "repo": "exiftool",
-                    "stars": 4991,
+                    "stars": 4990,
                     "topics": [
                       "api",
                       "cli",
@@ -2949,7 +2949,7 @@
                     "open_issues": 688,
                     "owner": "balena-io",
                     "repo": "etcher",
-                    "stars": 34255,
+                    "stars": 34256,
                     "topics": [
                       "cross-platform",
                       "etcher",
@@ -3834,8 +3834,8 @@
                     "id": 24217298,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-28T13:11:15Z",
-                    "open_issues": 125,
+                    "last_commit": "2026-08-29T04:36:33Z",
+                    "open_issues": 122,
                     "owner": "logisim-evolution",
                     "repo": "logisim-evolution",
                     "stars": 7496,
@@ -4144,7 +4144,7 @@
                     "id": 537699,
                     "language": "C",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-08-28T13:53:02Z",
+                    "last_commit": "2026-08-29T04:13:03Z",
                     "open_issues": 2,
                     "owner": "Kitware",
                     "repo": "CMake",
@@ -4216,7 +4216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:11:46.701Z",
+    "last_updated": "2026-08-29T04:49:24.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "Windows-based AI-powered Reverse Engineering Toolkit \"AIO\", Built for Security (Malware analysis, Pentesting) & Educational purposes.",
