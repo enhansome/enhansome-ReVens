@@ -465,7 +465,7 @@
                     "open_issues": 2,
                     "owner": "hasherezade",
                     "repo": "hollows_hunter",
-                    "stars": 2414,
+                    "stars": 2415,
                     "topics": [
                       "anti-malware",
                       "malware-analysis",
@@ -1603,7 +1603,7 @@
                     "open_issues": 577,
                     "owner": "x64dbg",
                     "repo": "x64dbg",
-                    "stars": 49676,
+                    "stars": 49677,
                     "topics": [
                       "binary-analysis",
                       "ctf",
@@ -1732,7 +1732,7 @@
                     "open_issues": 1973,
                     "owner": "NationalSecurityAgency",
                     "repo": "ghidra",
-                    "stars": 80347,
+                    "stars": 80365,
                     "topics": [
                       "disassembler",
                       "reverse-engineering",
@@ -1905,7 +1905,7 @@
                     "open_issues": 455,
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 50715,
+                    "stars": 50718,
                     "topics": [
                       "android",
                       "decompiler",
@@ -2026,7 +2026,7 @@
                     "open_issues": 2,
                     "owner": "jindrapetrik",
                     "repo": "jpexs-decompiler",
-                    "stars": 5900,
+                    "stars": 5901,
                     "topics": [
                       "actionscript",
                       "decompiler",
@@ -2147,7 +2147,7 @@
                     "open_issues": 1972,
                     "owner": "frida",
                     "repo": "frida",
-                    "stars": 22103,
+                    "stars": 22104,
                     "topics": [
                       "frida",
                       "instrumentation",
@@ -2172,7 +2172,7 @@
                     "open_issues": 1315,
                     "owner": "cheat-engine",
                     "repo": "cheat-engine",
-                    "stars": 19252,
+                    "stars": 19253,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
@@ -2473,7 +2473,7 @@
                     "open_issues": 156,
                     "owner": "FarGroup",
                     "repo": "FarManager",
-                    "stars": 2232,
+                    "stars": 2233,
                     "topics": [
                       "7-zip",
                       "c",
@@ -2918,7 +2918,7 @@
                     "id": 67031040,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T21:20:28Z",
+                    "last_commit": "2026-10-03T02:55:55Z",
                     "open_issues": 24,
                     "owner": "upx",
                     "repo": "upx",
@@ -2950,7 +2950,7 @@
                     "open_issues": 695,
                     "owner": "balena-io",
                     "repo": "etcher",
-                    "stars": 34462,
+                    "stars": 34464,
                     "topics": [
                       "cross-platform",
                       "etcher",
@@ -3483,7 +3483,7 @@
                     "open_issues": 14,
                     "owner": "exelix11",
                     "repo": "SysDVR",
-                    "stars": 2030,
+                    "stars": 2031,
                     "topics": [
                       "homebrew",
                       "nintendo-switch",
@@ -3888,7 +3888,7 @@
                     "open_issues": 119,
                     "owner": "logisim-evolution",
                     "repo": "logisim-evolution",
-                    "stars": 7692,
+                    "stars": 7693,
                     "topics": [
                       "circuit",
                       "circuits",
@@ -3975,7 +3975,7 @@
                     "open_issues": 10,
                     "owner": "lcgamboa",
                     "repo": "picsimlab",
-                    "stars": 669,
+                    "stars": 670,
                     "topics": [
                       "arduino",
                       "avr",
@@ -4040,7 +4040,7 @@
                     "open_issues": 338,
                     "owner": "DevToys-app",
                     "repo": "DevToys",
-                    "stars": 32051,
+                    "stars": 32052,
                     "topics": [
                       "blazor",
                       "cross-platform",
@@ -4177,7 +4177,7 @@
                     "open_issues": 759,
                     "owner": "sandboxie-plus",
                     "repo": "Sandboxie",
-                    "stars": 19591,
+                    "stars": 19592,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:56:55.191Z"
@@ -4194,7 +4194,7 @@
                     "id": 537699,
                     "language": "C",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-02T16:13:04Z",
+                    "last_commit": "2026-10-03T04:13:03Z",
                     "open_issues": 2,
                     "owner": "Kitware",
                     "repo": "CMake",
@@ -4266,7 +4266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:01:49.533Z",
+    "last_updated": "2026-10-03T04:29:23.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "Windows-based AI-powered Reverse Engineering Toolkit \"AIO\", Built for Security (Malware analysis, Pentesting) & Educational purposes.",
