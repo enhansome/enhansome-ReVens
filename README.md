@@ -119,9 +119,9 @@ Analyze portable-executables and related files (EXE, DLL, OCX, SYS).
 
 *Analyze PE and other binary files.*
 
-* **[Yara](https://github.com/VirusTotal/yara) ⭐ 10,046 | 🐛 170 | 🌐 C | 📅 2026-10-27** - *Malware pattern matching tool.*
+* **[Yara](https://github.com/VirusTotal/yara) ⭐ 10,047 | 🐛 172 | 🌐 C | 📅 2026-10-27** - *Malware pattern matching tool.*
 * **[Capa](https://github.com/mandiant/capa) ⭐ 6,339 | 🐛 322 | 🌐 Python | 📅 2026-11-10** - *Identify capabilities in executables.*
-* **[PE-bear](https://github.com/hasherezade/pe-bear) ⭐ 3,892 | 🐛 18 | 🌐 C++ | 📅 2026-11-08** - *PE reversing tool.*
+* **[PE-bear](https://github.com/hasherezade/pe-bear) ⭐ 3,893 | 🐛 18 | 🌐 C++ | 📅 2026-11-08** - *PE reversing tool.*
 * **[ReverseKit](https://github.com/zer0condition/ReverseKit) ⭐ 796 | 🐛 0 | 🌐 C++ | 📅 2023-05-30** - *Dynamic Reverse Engineering Toolkit (x64).*
 * **[Spyre](https://github.com/spyre-project/spyre) ⭐ 185 | 🐛 13 | 🌐 Go | 📅 2026-10-25** - *Simple YARA-based IOC scanner.*
 * **[Exe Spy](https://github.com/andyjsmith/Exe-Spy) ⭐ 78 | 🐛 0 | 🌐 Python | 📅 2025-02-19** - *Exe Spy.*
@@ -198,7 +198,7 @@ Analyze portable-executables and related files (EXE, DLL, OCX, SYS).
 
 *Analyze PE compilation, signature and more.*
 
-* **[Detect It Easy (DIE)](https://github.com/horsicq/DIE-engine) ⭐ 3,363 | 🐛 16 | 🌐 C++ | 📅 2026-11-17** - *File type identifier.*
+* **[Detect It Easy (DIE)](https://github.com/horsicq/DIE-engine) ⭐ 3,364 | 🐛 17 | 🌐 C++ | 📅 2026-11-18** - *File type identifier.*
 * **[Nauz File Detector](https://github.com/horsicq/Nauz-File-Detector) ⭐ 586 | 🐛 2 | 🌐 C++ | 📅 2026-11-17** - *Detects compiler tools.*
 * **PE Detective** - *Identifies PE files.*
 * **Language 2000** - *Comprehensive compiler detector.*
@@ -210,7 +210,7 @@ Analyze portable-executables and related files (EXE, DLL, OCX, SYS).
 
 *Analyze PE packaging and protection.*
 
-* **[Exeinfo PE](https://github.com/ExeinfoASL/ASL) ⭐ 1,162 | 🐛 8 | 📅 2026-09-11** - *Detects packers and compressors.*
+* **[Exeinfo PE](https://github.com/ExeinfoASL/ASL) ⭐ 1,163 | 🐛 8 | 📅 2026-09-11** - *Detects packers and compressors.*
 * **[UPX-Analyser](https://github.com/bdunlap9/UPX-Unpackers) ⭐ 35 | 🐛 0 | 🌐 Roff | 📅 2019-11-30** - *Analyzes UPX-packed files.*
 * **[PEiD](https://www.aldeid.com/wiki/PEiD)** - *Identifies packed executables.*
 * **ARiD** - *Identifies archive formats.*
@@ -234,7 +234,7 @@ Analyze portable-executables and related files (EXE, DLL, OCX, SYS).
 
 *Dynamic system analysis (Runtime).*
 
-* **[DriverStore Explorer](https://github.com/lostindark/DriverStoreExplorer) ⭐ 12,183 | 🐛 19 | 🌐 C# | 📅 2026-11-15** - *DriverStore Explorer.*
+* **[DriverStore Explorer](https://github.com/lostindark/DriverStoreExplorer) ⭐ 12,189 | 🐛 20 | 🌐 C# | 📅 2026-11-18** - *DriverStore Explorer.*
 * **[Windows Kernel Explorer](https://github.com/AxtMueller/Windows-Kernel-Explorer) ⭐ 2,737 | 🐛 0 | 📅 2026-10-31** - *Another rootkits scanner.*
 * **SysInspector** - *Rootkits scanner.*
 * **[RealTemp](https://www.techpowerup.com/realtemp/)** - *CPU temperature monitoring tool.*
@@ -275,7 +275,7 @@ Analyze portable-executables and related files (EXE, DLL, OCX, SYS).
 
 ##### System (Process)
 
-* **[PE-sieve](https://github.com/hasherezade/pe-sieve) ⭐ 3,946 | 🐛 7 | 🌐 C++ | 📅 2026-11-08** - *Scans a given process.*
+* **[PE-sieve](https://github.com/hasherezade/pe-sieve) ⭐ 3,947 | 🐛 7 | 🌐 C++ | 📅 2026-11-08** - *Scans a given process.*
 * **[Hollows Hunter](https://github.com/hasherezade/hollows_hunter) ⭐ 2,441 | 🐛 2 | 🌐 C | 📅 2026-11-08** - *Scans running processes for code injection artifacts.*
 * **Process Monitor** - *Advansed monitoring tool for Windows.*
 * **CPU Stress** - *CPU stress testing tool.*
@@ -300,8 +300,8 @@ Analyze portable-executables and related files (EXE, DLL, OCX, SYS).
 
 ##### System (Network)
 
-* **[Papercut](https://github.com/ChangemakerStudios/Papercut) ⭐ 3,339 | 🐛 3 | 🌐 C# | 📅 2026-11-16** - *Simple SMTP server for testing.*
-* **[PacketSender](https://github.com/dannagle/PacketSender) ⭐ 2,688 | 🐛 65 | 🌐 C++ | 📅 2026-10-11** - *Send & receive TCP, UDP, SSL, DTLS. HTTP Requests.*
+* **[Papercut](https://github.com/ChangemakerStudios/Papercut) ⭐ 3,340 | 🐛 3 | 🌐 C# | 📅 2026-11-16** - *Simple SMTP server for testing.*
+* **[PacketSender](https://github.com/dannagle/PacketSender) ⭐ 2,690 | 🐛 66 | 🌐 C++ | 📅 2026-10-11** - *Send & receive TCP, UDP, SSL, DTLS. HTTP Requests.*
 * **[HTTP Toolkit](https://github.com/httptoolkit/httptoolkit-desktop) ⭐ 741 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-28** - *Intercept, view & edit any HTTP traffic.*
 * **[Malzilla](https://github.com/Malzilla/Malzilla) ⚠️ Archived** - *Detect malicious scripts.*
 * **Wireshark** - *Network packet analyzer.*
@@ -328,9 +328,9 @@ Analyze portable-executables and related files (EXE, DLL, OCX, SYS).
 
 ##### System (File)
 
-* **[SQLiteStudio](https://github.com/pawelsalawa/sqlitestudio) ⭐ 6,827 | 🐛 500 | 🌐 C | 📅 2026-11-15** - *SQLite database manager.*
-* **[GrepWin (Text)](https://github.com/stefankueng/grepWin) ⭐ 2,097 | 🐛 42 | 🌐 C++ | 📅 2026-11-15** - *Search tool for Windows.*
-* **[XMachO Viewer](https://github.com/horsicq/XMachOViewer) ⭐ 969 | 🐛 4 | 🌐 C++ | 📅 2026-11-17** - *Mac OS XMachO Viewer.*
+* **[SQLiteStudio](https://github.com/pawelsalawa/sqlitestudio) ⭐ 6,829 | 🐛 500 | 🌐 C | 📅 2026-11-15** - *SQLite database manager.*
+* **[GrepWin (Text)](https://github.com/stefankueng/grepWin) ⭐ 2,098 | 🐛 42 | 🌐 C++ | 📅 2026-11-15** - *Search tool for Windows.*
+* **[XMachO Viewer](https://github.com/horsicq/XMachOViewer) ⭐ 969 | 🐛 4 | 🌐 C++ | 📅 2026-11-18** - *Mac OS XMachO Viewer.*
 * **[Sqliteman](https://github.com/pvanek/sqliteman) ⭐ 163 | 🐛 0 | 🌐 C++ | 📅 2026-11-14** - *SQLite database management GUI.*
 * **Search My Files** - *Advansed files finder.*
 * **Exif Data View** - *Exif data Viewer.*
@@ -358,7 +358,7 @@ Analyze portable-executables and related files (EXE, DLL, OCX, SYS).
 
 *Mathematical and reverse calculating.*
 
-* **[RHash](https://github.com/rhash/RHash) ⭐ 736 | 🐛 44 | 🌐 C | 📅 2026-11-18** - *Utility for computing hash sums.*
+* **[RHash](https://github.com/rhash/RHash) ⭐ 737 | 🐛 44 | 🌐 C | 📅 2026-11-18** - *Utility for computing hash sums.*
 * **[XOpcodeCalc](https://github.com/horsicq/XOpcodeCalc) ⭐ 414 | 🐛 6 | 🌐 C++ | 📅 2026-11-06** - *Opcode calculator tool.*
 * **[Math Solver](https://www.alternate-tools.com/pages/c_mathsolver.php)** - *Alternate Math Solver: Mathematical helper.*
 * **Reversers Calculator** - *Calculator for reverse engineering.*
@@ -400,13 +400,13 @@ Unpack and remove binary protection (UPX, ASPack, VMProtect).
 * **[.NET Reactor Slayer](https://github.com/SychicBoy/NETReactorSlayer) ⭐ 1,284 | 🐛 32 | 🌐 C# | 📅 2026-09-12** - *Deobfuscator and unpacker for .NET Reactor.*
 * **[MalUnpack](https://github.com/hasherezade/mal_unpack) ⭐ 846 | 🐛 2 | 🌐 C | 📅 2026-11-08** - *Dynamic unpacker for malware analysis.*
 * **[GUnPacker](https://github.com/unipacker/unipacker) ⭐ 785 | 🐛 30 | 🌐 Python | 📅 2025-08-18** - *Generic unpacker.*
-* **[Magicmida](https://github.com/Hendi48/Magicmida) ⭐ 763 | 🐛 17 | 🌐 Pascal | 📅 2026-05-14** - *Themida/WinLicense unpacker.*
+* **[Magicmida](https://github.com/Hendi48/Magicmida) ⭐ 764 | 🐛 17 | 🌐 Pascal | 📅 2026-05-14** - *Themida/WinLicense unpacker.*
 * **[de4dot](https://github.com/ViRb3/de4dot-cex) ⚠️ Archived** - *.NET deobfuscator and unpacker.*
 * **[IsXunpack](https://github.com/lifenjoiner/ISx) ⭐ 233 | 🐛 1 | 🌐 C | 📅 2025-07-07** - *InstallShield installer extractor.*
 * **[ISx](https://github.com/lifenjoiner/ISx) ⭐ 233 | 🐛 1 | 🌐 C | 📅 2025-07-07** - *InstallShield installer extractor and unpacker.*
 * **[ConfuserEx Unpacker](https://github.com/XenocodeRCE/ConfuserEx-Unpacker) ⭐ 75 | 🐛 0 | 🌐 C# | 📅 2017-07-11** - *Confuserex unpacker.*
 * **[Quick Unpack](https://github.com/fatrolls/Quick-Unpack) ⭐ 43 | 🐛 2 | 🌐 C | 📅 2024-06-30** - *Quick and automated unpacker tool.*
-* **[XVolkolak](https://github.com/horsicq/XVolkolak) ⭐ 9 | 🐛 0 | 🌐 C++ | 📅 2026-11-17** - *Unpacker emulator for malware analysis.*
+* **[XVolkolak](https://github.com/horsicq/XVolkolak) ⭐ 9 | 🐛 0 | 🌐 C++ | 📅 2026-11-18** - *Unpacker emulator for malware analysis.*
 * **deARMPro** - *ARM Protector unpacker.*
 * **AuBeurre** - *Butter unpacker.*
 * **CexeKiller** - *CEXE unpacker.*
@@ -715,7 +715,7 @@ Unpack and remove binary protection (UPX, ASPack, VMProtect).
 
 *Decode hashed values (Crypto).*
 
-* **[CyberChef](https://github.com/gchq/CyberChef) ⭐ 36,430 | 🐛 589 | 🌐 JavaScript | 📅 2026-11-16** - *Analyzing and decoding data.*
+* **[CyberChef](https://github.com/gchq/CyberChef) ⭐ 36,477 | 🐛 592 | 🌐 JavaScript | 📅 2026-11-18** - *Analyzing and decoding data.*
 * **[RSA-Tool 2](https://github.com/ius/rsatool) ⭐ 1,684 | 🐛 2 | 🌐 Python | 📅 2026-07-20** - *Tool for generating and analyzing RSA keys.*
 * **[RSATool](https://github.com/ius/rsatool) ⭐ 1,684 | 🐛 2 | 🌐 Python | 📅 2026-07-20** - *Generate, convert and analyze RSA keys.*
 * **[Hash Identifier](https://github.com/blackploit/hash-identifier) ⭐ 640 | 🐛 6 | 🌐 Python | 📅 2024-05-08** - *Identifies the type of hash used in a string.*
@@ -750,8 +750,8 @@ Unpack and remove binary protection (UPX, ASPack, VMProtect).
 
 *Extract PE and other binary files.*
 
-* **[UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,801 | 🐛 27 | 🌐 C | 📅 2026-10-27** - *UEFI firmware image viewer and editor.*
-* **[UniExtract](https://github.com/Bioruebe/UniExtract2) ⭐ 4,479 | 🐛 123 | 🌐 AutoIt | 📅 2024-07-06** - *Universal Extractor.*
+* **[UEFITool](https://github.com/LongSoft/UEFITool) ⭐ 5,800 | 🐛 27 | 🌐 C | 📅 2026-10-27** - *UEFI firmware image viewer and editor.*
+* **[UniExtract](https://github.com/Bioruebe/UniExtract2) ⭐ 4,481 | 🐛 123 | 🌐 AutoIt | 📅 2024-07-06** - *Universal Extractor.*
 * **[PDBRipper](https://github.com/horsicq/PDBRipper/) ⭐ 909 | 🐛 18 | 🌐 C++ | 📅 2026-11-06** - *PDB file ripper and information extractor.*
 * **[Ratr](https://github.com/Jakiboy/Ratr) ⭐ 29 | 🐛 0 | 🌐 C# | 📅 2026-08-05** - *Router Config Extractor.*
 * **[DLL Export Viewer](https://www.nirsoft.net/utils/dll_export_viewer.html)** - *View exported functions of a DLL file.*
@@ -778,7 +778,7 @@ Unpack and remove binary protection (UPX, ASPack, VMProtect).
 
 ##### Extracting (Setup)
 
-* **[LessMSI](https://github.com/activescott/lessmsi) ⭐ 1,778 | 🐛 62 | 🌐 C# | 📅 2026-11-12** - *Command-line tool to extract data from MSI files.*
+* **[LessMSI](https://github.com/activescott/lessmsi) ⭐ 1,780 | 🐛 62 | 🌐 C# | 📅 2026-11-12** - *Command-line tool to extract data from MSI files.*
 * **[Innounp](https://github.com/WhatTheBlock/innounp/) ⭐ 63 | 🐛 0 | 🌐 Pascal | 📅 2021-09-05** - *Inno Setup unpacker, a command-line version.*
 * **[DeepResolver](https://github.com/Jakiboy/DeepResolver) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2026-03-31** - *Setup Dependency Resolver and Portable Application Creator.*
 * **[InnoBF](https://github.com/Malzilla/InnoBF) ⚠️ Archived** - *Inno Setup brute force password finder.*
@@ -791,7 +791,7 @@ Unpack and remove binary protection (UPX, ASPack, VMProtect).
 
 ##### Extracting (Registry)
 
-* **[RegRipper](https://github.com/keydet89/RegRipper3.0) ⭐ 730 | 🐛 10 | 🌐 Perl | 📅 2026-05-27** - *Another registry extractor.*
+* **[RegRipper](https://github.com/keydet89/RegRipper3.0) ⭐ 731 | 🐛 10 | 🌐 Perl | 📅 2026-05-27** - *Another registry extractor.*
 * **[RegJump](https://learn.microsoft.com/en-us/sysinternals/downloads/regjump)** - *Registry Key Jumper.*
 * **[RegScanner](https://www.nirsoft.net/utils/regscanner.html)** - *Registry scanner.*
 * **[RegFileExport](https://www.nirsoft.net/utils/reg_file_export.html)** - *Extract registry entries to a .reg file.*
@@ -829,10 +829,10 @@ View and change the running state of a program (Disassembling, Decompiling, Hexi
 
 *Interactive disassembly and runtime manipulation.*
 
-* **[x64dbg](https://github.com/x64dbg/x64dbg) ⭐ 50,339 | 🐛 574 | 🌐 C++ | 📅 2026-11-14** - *Graphical debugger for x86 and x86-64 executables.*
+* **[x64dbg](https://github.com/x64dbg/x64dbg) ⭐ 50,343 | 🐛 574 | 🌐 C++ | 📅 2026-11-18** - *Graphical debugger for x86 and x86-64 executables.*
 * **[dnSpy](https://github.com/dnSpy/dnSpy) ⚠️ Archived** - *.NET assembly editor, decompiler, and debugger.*
-* **[Radare2](https://github.com/radareorg/radare2) ⭐ 25,451 | 🐛 789 | 🌐 C | 📅 2026-11-17** - *A portable and multi-architecture reverse engineering framework.*
-* **[Cutter](https://github.com/rizinorg/cutter) ⭐ 20,234 | 🐛 502 | 🌐 C++ | 📅 2026-11-13** - *Free and open-source reverse engineering platform.*
+* **[Radare2](https://github.com/radareorg/radare2) ⭐ 25,453 | 🐛 788 | 🌐 C | 📅 2026-11-18** - *A portable and multi-architecture reverse engineering framework.*
+* **[Cutter](https://github.com/rizinorg/cutter) ⭐ 20,239 | 🐛 503 | 🌐 C++ | 📅 2026-11-13** - *Free and open-source reverse engineering platform.*
 * **[GDB](https://www.sourceware.org/gdb/)** - *The GNU Project Debugger.*
 * **JDebug Tool** - *Java debugger interface.*
 * **NWDebug** - *NetWare debugging tool.*
@@ -849,9 +849,9 @@ View and change the running state of a program (Disassembling, Decompiling, Hexi
 
 *Transforme machine code into Assembly language.*
 
-* **[Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 100,481 | 🐛 2,228 | 🌐 Java | 📅 2026-11-17** - *Open-source software reverse engineering suite.*
-* **[Capstone](https://github.com/capstone-engine/capstone) ⭐ 9,202 | 🐛 357 | 🌐 C | 📅 2026-11-17** - *Lightweight multi-architecture disassembly framework.*
-* **[WABT](https://github.com/WebAssembly/wabt) ⭐ 8,207 | 🐛 236 | 🌐 C++ | 📅 2026-11-11** - *WebAssembly Binary Toolkit - disassembler and tools.*
+* **[Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 100,597 | 🐛 2,225 | 🌐 Java | 📅 2026-11-18** - *Open-source software reverse engineering suite.*
+* **[Capstone](https://github.com/capstone-engine/capstone) ⭐ 9,204 | 🐛 358 | 🌐 C | 📅 2026-11-18** - *Lightweight multi-architecture disassembly framework.*
+* **[WABT](https://github.com/WebAssembly/wabt) ⭐ 8,210 | 🐛 236 | 🌐 C++ | 📅 2026-11-11** - *WebAssembly Binary Toolkit - disassembler and tools.*
 * **[Bddisasm](https://github.com/bitdefender/bddisasm) ⭐ 1,092 | 🐛 0 | 🌐 C | 📅 2026-11-09** - *Binary Ninja's disassembly library.*
 * **[ViDi](https://github.com/hasherezade/ViDi) ⭐ 80 | 🐛 1 | 🌐 C++ | 📅 2025-10-08** - *Visual disassembler and hex editor.*
 * **[Refractor](https://github.com/Rustemsoft/Refractor-.NET-assembly-browser-and-decompiler) ⭐ 7 | 🐛 0 | 📅 2017-04-05** - *.NET decompiler and assembly browser.*
@@ -873,11 +873,11 @@ View and change the running state of a program (Disassembling, Decompiling, Hexi
 
 *Revert the process of compilation.*
 
-* **[JADX](https://github.com/skylot/jadx) ⭐ 51,879 | 🐛 464 | 🌐 Java | 📅 2026-11-17** - *Dex to Java decompiler.*
-* **[ILSpy](https://github.com/icsharpcode/ILSpy) ⭐ 27,095 | 🐛 174 | 🌐 C# | 📅 2026-11-16** - *Open-source .NET assembly browser.*
+* **[JADX](https://github.com/skylot/jadx) ⭐ 51,895 | 🐛 464 | 🌐 Java | 📅 2026-11-18** - *Dex to Java decompiler.*
+* **[ILSpy](https://github.com/icsharpcode/ILSpy) ⭐ 27,103 | 🐛 174 | 🌐 C# | 📅 2026-11-16** - *Open-source .NET assembly browser.*
 * **[Bytecode Viewer](https://github.com/Konloch/bytecode-viewer) ⭐ 15,721 | 🐛 103 | 🌐 Java | 📅 2026-10-30** - *Decompile Java/Android bytecode & more.*
-* **[JD-GUI](https://github.com/java-decompiler/jd-gui) ⭐ 15,226 | 🐛 248 | 🌐 Java | 📅 2024-07-08** - *Decompile Java class files.*
-* **[FFDec](https://github.com/jindrapetrik/jpexs-decompiler) ⭐ 6,052 | 🐛 1 | 🌐 Java | 📅 2026-11-18** - *Flash Decompiler.*
+* **[JD-GUI](https://github.com/java-decompiler/jd-gui) ⭐ 15,229 | 🐛 248 | 🌐 Java | 📅 2024-07-08** - *Decompile Java class files.*
+* **[FFDec](https://github.com/jindrapetrik/jpexs-decompiler) ⭐ 6,053 | 🐛 1 | 🌐 Java | 📅 2026-11-18** - *Flash Decompiler.*
 * **[JByteMod](https://github.com/GraxCode/JByteMod-Beta) ⭐ 861 | 🐛 39 | 🌐 Java | 📅 2021-04-26** - *Java bytecode editor and decompiler.*
 * **[BinaryNinja](https://binary.ninja/)** - *Advanced binary analysis platform.*
 * **[dotPeek](https://www.jetbrains.com/decompiler/)** - *.NET decompiler and assembly browser.*
@@ -905,7 +905,7 @@ View and change the running state of a program (Disassembling, Decompiling, Hexi
 
 *Edit PE hexadecimal representation.*
 
-* **[ImHex](https://github.com/WerWolv/ImHex) ⭐ 55,911 | 🐛 421 | 🌐 C++ | 📅 2026-11-17** - *A fast and powerful hex editor.*
+* **[ImHex](https://github.com/WerWolv/ImHex) ⭐ 55,936 | 🐛 423 | 🌐 C++ | 📅 2026-11-17** - *A fast and powerful hex editor.*
 * **[010Editor](https://www.sweetscape.com/010editor/)** - *Hex editor with binary templates.*
 * **HEX Editor** - *A tool for viewing and editing hexadecimal files.*
 * **[HxD](https://mh-nexus.de/en/hxd/)** - *A fast, basic hex editor.*
@@ -927,14 +927,14 @@ Edit executable files (PE, DLL, Import tables, Setup, Res).
 
 *Compile, Inject, Patch, Build and Reconstruct PE.*
 
-* **[Frida](https://github.com/frida/frida) ⭐ 22,826 | 🐛 1,969 | 🌐 Meson | 📅 2026-11-17** - *Dynamic instrumentation toolkit.*
-* **[Cheat Engine](https://github.com/cheat-engine/cheat-engine) ⭐ 19,491 | 🐛 1,325 | 🌐 Pascal | 📅 2025-04-19** - *Memory scanner/debugger for games and applications.*
-* **[ReClass.NET](https://github.com/ReClassNET/ReClass.NET) ⭐ 2,234 | 🐛 83 | 🌐 C# | 📅 2024-05-10** - *.Net structure class reverser.*
-* **[XELFViewer](https://github.com/horsicq/XELFViewer) ⭐ 1,589 | 🐛 8 | 🌐 C++ | 📅 2026-11-17** - *ELF files viewer and editor.*
-* **[Scylla](https://github.com/NtQuery/Scylla) ⭐ 1,461 | 🐛 23 | 🌐 C++ | 📅 2023-04-05** - *Powerful and advanced x86/x86-64 executable unpacker.*
-* **[XPEViewer](https://github.com/horsicq/XPEViewer) ⭐ 1,247 | 🐛 5 | 🌐 QMake | 📅 2026-11-17** - *Executable file viewer and editor.*
-* **[PE Tools](https://github.com/petoolse/petools) ⭐ 1,205 | 🐛 10 | 📅 2025-10-21** - *PE manipulation toolkit.*
-* **[KDiff3](https://github.com/KDE/kdiff3) ⭐ 632 | 🐛 0 | 🌐 C++ | 📅 2026-11-17** - *File and directory diff and merge tool.*
+* **[Frida](https://github.com/frida/frida) ⭐ 22,841 | 🐛 1,969 | 🌐 Meson | 📅 2026-11-18** - *Dynamic instrumentation toolkit.*
+* **[Cheat Engine](https://github.com/cheat-engine/cheat-engine) ⭐ 19,494 | 🐛 1,324 | 🌐 Pascal | 📅 2025-04-19** - *Memory scanner/debugger for games and applications.*
+* **[ReClass.NET](https://github.com/ReClassNET/ReClass.NET) ⭐ 2,235 | 🐛 83 | 🌐 C# | 📅 2024-05-10** - *.Net structure class reverser.*
+* **[XELFViewer](https://github.com/horsicq/XELFViewer) ⭐ 1,589 | 🐛 8 | 🌐 C++ | 📅 2026-11-18** - *ELF files viewer and editor.*
+* **[Scylla](https://github.com/NtQuery/Scylla) ⭐ 1,462 | 🐛 23 | 🌐 C++ | 📅 2023-04-05** - *Powerful and advanced x86/x86-64 executable unpacker.*
+* **[XPEViewer](https://github.com/horsicq/XPEViewer) ⭐ 1,247 | 🐛 5 | 🌐 QMake | 📅 2026-11-18** - *Executable file viewer and editor.*
+* **[PE Tools](https://github.com/petoolse/petools) ⭐ 1,206 | 🐛 10 | 📅 2025-10-21** - *PE manipulation toolkit.*
+* **[KDiff3](https://github.com/KDE/kdiff3) ⭐ 633 | 🐛 0 | 🌐 C++ | 📅 2026-11-19** - *File and directory diff and merge tool.*
 * **[Resource Hacker](http://www.angusj.com/resourcehacker/)** - *Resource Hacker.*
 * **[PPEE](https://www.mzrst.com/)** - *Powerful PE file viewer and editor.*
 * **[Xrunner](https://github.com/Jakiboy/Xrunner)** - *EXE launcher builder.*
@@ -989,8 +989,8 @@ Edit executable files (PE, DLL, Import tables, Setup, Res).
 
 ##### Manipulating (File)
 
-* **[Exiftool](https://github.com/exiftool/exiftool) ⭐ 5,270 | 🐛 19 | 🌐 Perl | 📅 2026-11-16** - *Meta data editor.*
-* **[Far Manager](https://github.com/FarGroup/FarManager) ⭐ 2,265 | 🐛 158 | 🌐 C++ | 📅 2026-11-14** - *Text-based file and archive manager for Windows.*
+* **[Exiftool](https://github.com/exiftool/exiftool) ⭐ 5,276 | 🐛 19 | 🌐 Perl | 📅 2026-11-16** - *Meta data editor.*
+* **[Far Manager](https://github.com/FarGroup/FarManager) ⭐ 2,265 | 🐛 158 | 🌐 C++ | 📅 2026-11-18** - *Text-based file and archive manager for Windows.*
 * **[Steghide](https://github.com/StefanoDeVuono/steghide) ⭐ 793 | 🐛 4 | 🌐 C++ | 📅 2024-02-20** - *Hide data in images and audio.*
 * **[PDF Metadata Editor](https://github.com/zaro/pdf-metadata-editor) ⭐ 230 | 🐛 4 | 🌐 Java | 📅 2026-11-16** - *Open Source PDF Metadata Editor.*
 * **[DM CSV Editor](https://github.com/darhmedia/DMcsvEditor) ⭐ 13 | 🐛 0 | 🌐 Pascal | 📅 2018-03-26** - *Simple CSV/Tab file editor (DMcsvEditor).*
@@ -1011,7 +1011,7 @@ Edit executable files (PE, DLL, Import tables, Setup, Res).
 
 ##### System (Network)
 
-* **[WinSCP](https://github.com/winscp/winscp) ⭐ 3,965 | 🐛 4 | 🌐 C | 📅 2026-11-13** - *Free SFTP, SCP, and FTP client for Windows.*
+* **[WinSCP](https://github.com/winscp/winscp) ⭐ 3,967 | 🐛 4 | 🌐 C | 📅 2026-11-13** - *Free SFTP, SCP, and FTP client for Windows.*
 * **[NetPnc](https://www.sordum.org/14327/network-profile-name-changer-v1-4/)** - *Network Profile Name Changer.*
 * **[NetDisabler](https://www.sordum.org/9660/netdisabler-v1-0/)** - *Tool for disabling network adapters.*
 * **[UrlDisabler](https://www.sordum.org/10636/url-disabler-v1-0/)** - *Tool for blocking URLs and websites.*
@@ -1137,7 +1137,7 @@ Generate patching program using binary compare.
 
 *Build binary patcher.*
 
-* **[XDELTA Patch Maker](https://github.com/jmacd/xdelta) ⭐ 1,390 | 🐛 29 | 🌐 C | 📅 2026-11-17** - *Patch creator for Inno Setup installers.*
+* **[XDELTA Patch Maker](https://github.com/jmacd/xdelta) ⭐ 1,391 | 🐛 29 | 🌐 C | 📅 2026-11-17** - *Patch creator for Inno Setup installers.*
 * **dUP 2** - *Utility for creating patches for software.*
 * **AT4RE Patcher** - *Patch creator for software modification.*
 * **Apatch** - *Tool for creating patches for software.*
@@ -1276,9 +1276,9 @@ Generate patching program using binary compare.
 
 *Build patcher sounds (MX).*
 
-* **[MilkyTracker](https://github.com/milkytracker/MilkyTracker) ⭐ 2,134 | 🐛 94 | 🌐 C++ | 📅 2026-09-10** - *Multi-platform music tracker inspired by FastTracker 2.*
-* **[OpenMPT](https://github.com/OpenMPT/openmpt) ⭐ 801 | 🐛 3 | 🌐 C++ | 📅 2026-11-17** - *Open-source tracker software.*
-* **[ProTracker](https://github.com/8bitbubsy/pt2-clone) ⭐ 683 | 🐛 9 | 🌐 C | 📅 2026-11-13** - *Classic Amiga music tracker software.*
+* **[MilkyTracker](https://github.com/milkytracker/MilkyTracker) ⭐ 2,136 | 🐛 94 | 🌐 C++ | 📅 2026-09-10** - *Multi-platform music tracker inspired by FastTracker 2.*
+* **[OpenMPT](https://github.com/OpenMPT/openmpt) ⭐ 801 | 🐛 3 | 🌐 C++ | 📅 2026-11-18** - *Open-source tracker software.*
+* **[ProTracker](https://github.com/8bitbubsy/pt2-clone) ⭐ 684 | 🐛 9 | 🌐 C | 📅 2026-11-13** - *Classic Amiga music tracker software.*
 * **FastTracker** - *Popular tracker software for creating music.*
 * **[ModPlug Player](https://sourceforge.net/projects/modplugplayer/)** - *Player for module files including MOD, S3M, and XM.*
 * **ChipRip** - *Tool for extracting audio from chiptune files.*
@@ -1309,7 +1309,7 @@ Helper tools and miscellaneous content.
 
 *Assembling Machine code.*
 
-* **[Nasm](https://github.com/netwide-assembler/nasm) ⭐ 3,363 | 🐛 106 | 🌐 Assembly | 📅 2026-08-19** - *Netwide Assembler for x86 architecture.*
+* **[Nasm](https://github.com/netwide-assembler/nasm) ⭐ 3,365 | 🐛 106 | 🌐 Assembly | 📅 2026-08-19** - *Netwide Assembler for x86 architecture.*
 * **[Flat assembler (FASM)](https://flatassembler.net/)** - *A fast, self-hosting assembly language compiler for x86 architecture.*
 * **[RadASM](http://www.radasm.com/)** - *Rapid Application Development IDE.*
 * **[GoAsm](http://www.goasm.com/)** - *Free x86/x64 assembler for Windows.*
@@ -1544,7 +1544,7 @@ Helper tools and miscellaneous content.
 
 ##### Packing (Obfuscator)
 
-* **[ProGuard](https://github.com/Guardsquare/proguard) ⭐ 3,694 | 🐛 177 | 🌐 Java | 📅 2026-10-30** - *Java optimizer and obfuscator.*
+* **[ProGuard](https://github.com/Guardsquare/proguard) ⭐ 3,694 | 🐛 178 | 🌐 Java | 📅 2026-10-30** - *Java optimizer and obfuscator.*
 * **[PEunion](https://github.com/bytecode77/pe-union) ⭐ 742 | 🐛 2 | 🌐 Assembly | 📅 2025-06-28** - *Crypter with native & .NET stub.*
 * **[Netshrink](https://www.pelock.com/products/netshrink)** - *.NET executable compressor and DLL binder.*
 * **[JObfuscator](https://www.pelock.com/jobfuscator/)** - *Java obfuscator (Network API).*
@@ -1560,7 +1560,7 @@ Helper tools and miscellaneous content.
 
 ##### Packing (Wrapper)
 
-* **[UPX](https://github.com/upx/upx) ⭐ 18,011 | 🐛 15 | 🌐 C++ | 📅 2026-11-17** - *Free, portable, and extendable executable packer.*
+* **[UPX](https://github.com/upx/upx) ⭐ 18,010 | 🐛 14 | 🌐 C++ | 📅 2026-11-18** - *Free, portable, and extendable executable packer.*
 * **[EXE Packer](https://www.alternate-tools.com/pages/c_exepacker.php)** - *Alternate EXE Packer: A program to pack executable files.*
 * **FreeUPX** - *Free UPX-based packer.*
 * **UPX Compressor** - *UPX compression frontend.*
@@ -1576,19 +1576,19 @@ Helper tools and miscellaneous content.
 
 *Mobile RE toolkits.*
 
-* **[Etcher](https://github.com/balena-io/etcher) ⭐ 34,734 | 🐛 704 | 🌐 TypeScript | 📅 2026-10-23** - *A cross-platform tool to flash OS images onto SD cards and USB.*
-* **[OTP Extractor](https://github.com/scito/extract_otp_secrets) ⭐ 1,700 | 🐛 3 | 🌐 Python | 📅 2026-11-07** - *Tool for extracting OTPs (One-Time Passwords).*
+* **[Etcher](https://github.com/balena-io/etcher) ⭐ 34,742 | 🐛 706 | 🌐 TypeScript | 📅 2026-10-23** - *A cross-platform tool to flash OS images onto SD cards and USB.*
+* **[OTP Extractor](https://github.com/scito/extract_otp_secrets) ⭐ 1,701 | 🐛 3 | 🌐 Python | 📅 2026-11-07** - *Tool for extracting OTPs (One-Time Passwords).*
 * **[WhatsApp Viewer](https://github.com/andreas-marschke/whatsapp-viewer)** - *Viewer for WhatsApp chat histories.*
 * **WhatsApp Extractor** - *Command-line tool for extracting WhatsApp data.*
 
 ##### Mobile (Android)
 
-* **[Apktool](https://github.com/iBotPeaches/Apktool) ⭐ 27,270 | 🐛 78 | 🌐 Java | 📅 2026-11-16** - *Tool for decompiling and recompiling Android APK files.*
+* **[Apktool](https://github.com/iBotPeaches/Apktool) ⭐ 27,282 | 🐛 78 | 🌐 Java | 📅 2026-11-16** - *Tool for decompiling and recompiling Android APK files.*
 * **[APK Editor Studio](https://github.com/kefir500/apk-editor-studio) ⭐ 1,698 | 🐛 55 | 🌐 C++ | 📅 2025-01-19** - *Powerful APK editing tool.*
-* **[Bifrost](https://github.com/zacharee/Bifrost) ⭐ 1,680 | 🐛 18 | 🌐 Kotlin | 📅 2026-09-26** - *Tool for downloading Samsung mobile device firmware.*
+* **[Bifrost](https://github.com/zacharee/Bifrost) ⭐ 1,683 | 🐛 18 | 🌐 Kotlin | 📅 2026-09-26** - *Tool for downloading Samsung mobile device firmware.*
 * **[Frija](https://github.com/SlackingVeteran/frija) ⭐ 764 | 🐛 0 | 📅 2026-05-22** - *Tool for downloading Samsung firmware.*
-* **[XAPK Detector](https://github.com/horsicq/XAPKDetector) ⭐ 695 | 🐛 1 | 🌐 C++ | 📅 2026-11-17** - *Detects and handles XAPK files.*
-* **[APK Multi-Tool](https://github.com/APK-Multi-Tool/APK-Multi-Tool) ⭐ 245 | 🐛 5 | 🌐 Batchfile | 📅 2016-09-18** - *Tool for managing and modifying Android APK files.*
+* **[XAPK Detector](https://github.com/horsicq/XAPKDetector) ⭐ 695 | 🐛 1 | 🌐 C++ | 📅 2026-11-18** - *Detects and handles XAPK files.*
+* **[APK Multi-Tool](https://github.com/APK-Multi-Tool/APK-Multi-Tool) ⭐ 246 | 🐛 5 | 🌐 Batchfile | 📅 2016-09-18** - *Tool for managing and modifying Android APK files.*
 * **[APK Easy Tool](https://forum.xda-developers.com/t/tool-windows-apk-easy-tool-v1-60-2023-02-23.3333960/)** - *APK management utility for Windows.*
 * **[Odin3](https://odindownload.com/)** - *Samsung Android ROM flashing tool.*
 * **ADB Installer** - *ADB, Fastboot and Drivers installer.*
@@ -1633,16 +1633,16 @@ Helper tools and miscellaneous content.
 ##### Gaming (Nintendo Switch)
 
 * **[Quark](https://github.com/XorTroll/Goldleaf) ⭐ 3,069 | 🐛 89 | 🌐 C | 📅 2026-10-17** - *Nintendo Switch games installer using Goldleaf.*
-* **[DBI Backend](https://github.com/rashevskyv/dbi) ⭐ 2,999 | 🐛 71 | 🌐 Python | 📅 2026-11-06** - *Nintendo Switch games installer (NSP, NSZ, XCI, XCZ) using DBI (MTP, USB, HTTP).*
+* **[DBI Backend](https://github.com/rashevskyv/dbi) ⭐ 2,998 | 🐛 71 | 🌐 Python | 📅 2026-11-06** - *Nintendo Switch games installer (NSP, NSZ, XCI, XCZ) using DBI (MTP, USB, HTTP).*
 * **[Switch Army Knife](https://github.com/dezem/SAK) ⚠️ Archived** - *Switch Army Knife for Nintendo Switch.*
 * **[NS-USBloader](https://github.com/developersu/ns-usbloader) ⭐ 2,366 | 🐛 49 | 🌐 Java | 📅 2026-11-10** - *Nintendo Switch games installer using Awoo-Installer.*
-* **[TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI) ⭐ 2,336 | 🐛 24 | 🌐 C++ | 📅 2021-11-30** - *Nintendo Switch payload injector (RCM Mode).*
+* **[TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI) ⭐ 2,337 | 🐛 24 | 🌐 C++ | 📅 2021-11-30** - *Nintendo Switch payload injector (RCM Mode).*
 * **[SysDVR](https://github.com/exelix11/SysDVR) ⭐ 2,056 | 🐛 15 | 🌐 C++ | 📅 2026-11-15** - *Nintendo Switch streaming client.*
 * **[Switch LAN Play](https://github.com/spacemeowx2/switch-lan-play) ⭐ 2,025 | 🐛 63 | 🌐 C | 📅 2025-03-21** - *Nintendo Switch LAN client.*
 * **[Appstore](https://github.com/fortheusers/hb-appstore) ⭐ 1,483 | 🐛 28 | 🌐 C++ | 📅 2026-10-18** - *GUI Homebrew app store for CFW.*
 * **[NXDT Host](https://github.com/DarkMatterCore/nxdumptool) ⚠️ Archived** - *Nintendo Switch dump tool server.*
+* **[Switch Theme Injector](https://github.com/exelix11/SwitchThemeInjector) ⭐ 1,272 | 🐛 26 | 🌐 C | 📅 2026-09-22** - *Custom themes creator for Nintendo Switch.*
 * **[NUT](https://github.com/blawar/nut) ⭐ 1,272 | 🐛 78 | 🌐 Python | 📅 2026-01-19** - *Nintendo Switch games installer using Tinfoil.*
-* **[Switch Theme Injector](https://github.com/exelix11/SwitchThemeInjector) ⭐ 1,271 | 🐛 26 | 🌐 C | 📅 2026-09-22** - *Custom themes creator for Nintendo Switch.*
 * **[Joy-Con Toolkit](https://github.com/CTCaer/jc_toolkit) ⭐ 1,116 | 🐛 77 | 🌐 C++ | 📅 2024-05-07** - *Nintendo Switch Joy-Con toolkit.*
 * **[NX Nand Manager](https://github.com/eliboa/NxNandManager) ⭐ 993 | 🐛 50 | 🌐 C++ | 📅 2026-11-10** - *Nintendo Switch NAND manager.*
 * **[Fluffy](https://github.com/fourminute/Fluffy) ⭐ 268 | 🐛 3 | 🌐 Python | 📅 2023-08-21** - *Nintendo Switch games server installer using TinFoil or Goldleaf.*
@@ -1685,10 +1685,10 @@ Helper tools and miscellaneous content.
 
 *Circuit and logical simulation.*
 
-* **[Logisim](https://github.com/logisim-evolution/logisim-evolution) ⭐ 7,950 | 🐛 147 | 🌐 Java | 📅 2026-11-18** - *Educational digital circuit simulator.*
-* **[Arduino](https://github.com/arduino/arduino-cli) ⭐ 5,094 | 🐛 293 | 🌐 Go | 📅 2026-11-16** - *Command-line interface for Arduino.*
+* **[Logisim](https://github.com/logisim-evolution/logisim-evolution) ⭐ 7,956 | 🐛 149 | 🌐 Java | 📅 2026-11-18** - *Educational digital circuit simulator.*
+* **[Arduino](https://github.com/arduino/arduino-cli) ⭐ 5,095 | 🐛 293 | 🌐 Go | 📅 2026-11-16** - *Command-line interface for Arduino.*
 * **[Fritzing](https://github.com/fritzing/fritzing-app) ⭐ 4,871 | 🐛 501 | 🌐 C++ | 📅 2026-08-12** - *An open-source electronics design software.*
-* **[PICSimLab](https://github.com/lcgamboa/picsimlab) ⭐ 687 | 🐛 7 | 🌐 C++ | 📅 2026-11-15** - *PIC microcontroller simulator.*
+* **[PICSimLab](https://github.com/lcgamboa/picsimlab) ⭐ 689 | 🐛 7 | 🌐 C++ | 📅 2026-11-15** - *PIC microcontroller simulator.*
 * **[SimulIDE](https://github.com/simulide/simulide) ⭐ 335 | 🐛 23 | 🌐 C++ | 📅 2021-11-04** - *Real-time electronics simulator.*
 * **arduino-simulator** - *Software for simulating Arduino circuits.*
 * **[UnoArduSim](http://www.unoardusim.com/)** - *Arduino simulator and debugger.*
@@ -1699,8 +1699,8 @@ Helper tools and miscellaneous content.
 
 *Programming tools (+ Compilators).*
 
-* **[DevToys](https://github.com/DevToys-app/DevToys) ⭐ 32,287 | 🐛 340 | 🌐 C# | 📅 2026-09-29** - *A Swiss Army knife for developers.*
-* **[Cmder](https://github.com/cmderdev/cmder) ⭐ 27,011 | 🐛 75 | 🌐 PowerShell | 📅 2026-11-14** - *Console emulator.*
+* **[DevToys](https://github.com/DevToys-app/DevToys) ⭐ 32,294 | 🐛 341 | 🌐 C# | 📅 2026-09-29** - *A Swiss Army knife for developers.*
+* **[Cmder](https://github.com/cmderdev/cmder) ⭐ 27,010 | 🐛 76 | 🌐 PowerShell | 📅 2026-11-14** - *Console emulator.*
 * **[Dev-C++](https://github.com/Embarcadero/Dev-Cpp) ⭐ 3,050 | 🐛 224 | 🌐 Pascal | 📅 2024-06-17** - *A fast, portable, simple, and free C/C++ IDE.*
 * **[PyScripter](https://github.com/pyscripter/pyscripter) ⭐ 1,260 | 🐛 52 | 🌐 Pascal | 📅 2025-11-24** - *Free and open-source Python integrated development environment (IDE).*
 * **AutoPlay Media Studio** - *AutoPlay Media Studio Installer with serial key.*
@@ -1725,8 +1725,8 @@ Helper tools and miscellaneous content.
 
 *Toolkit's standalone and offline dependencies installers.*
 
-* **[Sandboxie](https://github.com/sandboxie-plus/Sandboxie) ⭐ 19,996 | 🐛 792 | 🌐 C++ | 📅 2026-11-17** - *Enhanced version of the popular sandboxing program.*
-* **[Cmake](https://github.com/Kitware/CMake) ⭐ 8,164 | 🐛 2 | 🌐 C | 📅 2026-11-17** - *C, C++ builder.*
+* **[Sandboxie](https://github.com/sandboxie-plus/Sandboxie) ⭐ 20,013 | 🐛 796 | 🌐 C++ | 📅 2026-11-17** - *Enhanced version of the popular sandboxing program.*
+* **[Cmake](https://github.com/Kitware/CMake) ⭐ 8,166 | 🐛 2 | 🌐 C | 📅 2026-11-18** - *C, C++ builder.*
 * **[Npcap](https://github.com/nmap/npcap) ⭐ 3,641 | 🐛 251 | 🌐 C | 📅 2026-10-21** - *Packet capture library installer.*
 * **[MSYS2](https://github.com/nmap/npcap) ⭐ 3,641 | 🐛 251 | 🌐 C | 📅 2026-10-21** - *Unix SDK installer for Windows.*
 * **[.NET Framework AIO](https://www.microsoft.com/net)** - *.NET Framework AIO Runtime installer.*
@@ -1746,4 +1746,4 @@ Skip the coffee! If you like the project, a **star** would mean a lot.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
